@@ -1,5 +1,5 @@
 ﻿<div class="logos">
-  <div class="HTML5" style="display: inline;">
+  <span class="HTML5">
     <a href="https://html.spec.whatwg.org/multipage/">
       <img
         src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/html-1.svg"
@@ -8,9 +8,9 @@
         height="100"
       />
     </a>
-  </div>
+  </span>
 
-  <div class="CSS">
+  <span class="CSS">
     <a href="https://www.w3.org/Style/CSS/Overview.en.html">
       <img
         src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/css-3.svg"
@@ -19,5 +19,5 @@
         height="100"
       />
     </a>
-  </div>
+  </span>
 </div>
