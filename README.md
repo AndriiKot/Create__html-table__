@@ -20,4 +20,15 @@
       />
     </a>
   </span>
+
+  <span class="JS">
+    <a href="https://tc39.es/ecma262/">
+      <img
+        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/javascript-1.svg"
+        alt="JS logo"
+        width="100"
+        height="100"
+      />
+    </a>
+  </span>
 </div>
