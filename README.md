@@ -1,4 +1,8 @@
-﻿<div class="logos">
+﻿<a href="https://html.spec.whatwg.org/multipage/">HTML5 docs</a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS3 docs</a>
+<a href="https://tc39.es/ecma262/">ECMAScript docs</a>
+
+<div class="logos">
   <span class="HTML5">
     <a href="https://html.spec.whatwg.org/multipage/">
       <img
