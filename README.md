@@ -2,6 +2,7 @@
 <a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS3 docs</a>
 <a href="https://tc39.es/ecma262/">ECMAScript docs</a>
 <a href="https://react.dev/">React docs</a>
+<a href="https://babeljs.io/">Babel docs</a>
 
 <div class="logos">
   <span class="HTML5">
