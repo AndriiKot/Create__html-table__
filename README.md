@@ -18,7 +18,7 @@
   <span class="CSS">
     <a href="https://www.w3.org/Style/CSS/Overview.en.html">
       <img
-        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/css-3.svg"
+        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/css-3.svg"
         alt="CSS logo"
         width="100"
         height="100"
@@ -29,7 +29,7 @@
   <span class="JS">
     <a href="https://tc39.es/ecma262/">
       <img
-        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/javascript-1.svg"
+        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/javascript-1.svg"
         alt="JS logo"
         width="100"
         height="100"
@@ -40,7 +40,7 @@
   <span class="React">
     <a href="https://react.dev/">
       <img
-        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/react-2.svg"
+        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-2.svg"
         alt="React logo"
         width="100"
         height="100"
@@ -51,7 +51,7 @@
   <span class="D3">
     <a href="https://d3js.org/">
       <img
-        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/d3-2.svg"
+        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/d3-2.svg"
         alt="D3 logo"
         width="100"
         height="100"
@@ -62,7 +62,7 @@
   <span class="Babel">
     <a href="https://babeljs.io/">
       <img
-        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/d3-2.svg"
+        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/d3-2.svg"
         alt="Babel logo"
         width="100"
         height="100"
