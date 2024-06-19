@@ -64,7 +64,7 @@
       <img
         src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel-10.svg"
         alt="Babel logo"
-        width="100"
+        width="200"
         height="100"
       />
     </a>
