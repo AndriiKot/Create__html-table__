@@ -62,7 +62,7 @@
   <span class="Babel">
     <a href="https://babeljs.io/">
       <img
-        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/d3-2.svg"
+        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel-10.svg"
         alt="Babel logo"
         width="100"
         height="100"
