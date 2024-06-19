@@ -59,4 +59,15 @@
     </a>
   </span>
 
+  <span class="Babel">
+    <a href="https://babeljs.io/">
+      <img
+        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/d3-2.svg"
+        alt="Babel logo"
+        width="100"
+        height="100"
+      />
+    </a>
+  </span>
+
 </div>
