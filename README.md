@@ -71,4 +71,15 @@
     </a>
   </span>
 
+  <span class="Vite">
+    <a href="https://vitejs.dev/">
+      <img
+        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vitejs.svg"
+        alt="Vite logo"
+        width="100"
+        height="100"
+      />
+    </a>
+  </span>
+
 </div>
