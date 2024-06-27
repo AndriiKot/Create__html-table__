@@ -84,4 +84,15 @@
     </a>
   </span>
 
+  <span class="React Query">
+    <a href="https://tanstack.com/">
+      <img
+        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-query-seeklogo.svg"
+        alt="React Query logo"
+        width="100"
+        height="100"
+      />
+    </a>
+  </span>
+
 </div>
