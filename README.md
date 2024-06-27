@@ -3,7 +3,7 @@
 <a href="https://tc39.es/ecma262/">ECMAScript docs</a>
 <a href="https://react.dev/">React docs</a>
 <a href="https://babeljs.io/">Babel docs</a>
-<a href="https://vitejs.dev/">Vite</a>
+<a href="https://vitejs.dev/">Vite docs</a>
 
 
 <div class="logos">
