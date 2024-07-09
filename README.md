@@ -106,7 +106,7 @@ css
 <tbody>
 <tr>
 <td>
-https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/css-3.svg
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/css-3.svg alt=css>
 <td>
 </tr>
 </tbody>
@@ -122,7 +122,7 @@ html
 <tbody>
 <tr>
 <td>
-https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/html-1.svg
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/html-1.svg alt=html>
 <td>
 </tr>
 </tbody>
