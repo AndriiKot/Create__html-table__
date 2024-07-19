@@ -11,7 +11,7 @@ def create_table(file = '', path, options, kwargs)
         kwargs.each do |key, value|
                     f.puts("<thead>")
                     f.puts("<tr>")
-                    f.puts("<th width=200>")
+                    f.puts("<th width=200 height=200>")
                     f.puts("#{key}")
                     f.puts("</th>")
                     f.puts("</tr>")
