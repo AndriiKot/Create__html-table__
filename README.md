@@ -1,112 +1,15 @@
-﻿<a href="https://html.spec.whatwg.org/multipage/">HTML5 docs</a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS3 docs</a>
-<a href="https://tc39.es/ecma262/">ECMAScript docs</a>
-<a href="https://react.dev/">React docs</a>
-<a href="https://babeljs.io/">Babel docs</a>
-<a href="https://vitejs.dev/">Vite docs</a>
-
-
-<div class="logos">
-  <span class="HTML5">
-    <a href="https://html.spec.whatwg.org/multipage/">
-      <img
-        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/html-1.svg"
-        alt="HTML5 logo"
-        width="100"
-        height="100"
-      />
-    </a>
-  </span>
-
-  <span class="CSS">
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-      <img
-        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/css-3.svg"
-        alt="CSS logo"
-        width="100"
-        height="100"
-      />
-    </a>
-  </span>
-
-  <span class="JS">
-    <a href="https://tc39.es/ecma262/">
-      <img
-        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/javascript-1.svg"
-        alt="JS logo"
-        width="100"
-        height="100"
-      />
-    </a>
-  </span> 
-  
-  <span class="React">
-    <a href="https://react.dev/">
-      <img
-        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-2.svg"
-        alt="React logo"
-        width="100"
-        height="100"
-      />
-    </a>
-  </span>
-
-  <span class="D3">
-    <a href="https://d3js.org/">
-      <img
-        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/d3-2.svg"
-        alt="D3 logo"
-        width="100"
-        height="100"
-      />
-    </a>
-  </span>
-
-  <span class="Babel">
-    <a href="https://babeljs.io/">
-      <img
-        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel-10.svg"
-        alt="Babel logo"
-        width="200"
-        height="100"
-      />
-    </a>
-  </span>
-
-  <span class="Vite">
-    <a href="https://vitejs.dev/">
-      <img
-        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vitejs.svg"
-        alt="Vite logo"
-        width="100"
-        height="100"
-      />
-    </a>
-  </span>
-
-  <span class="React Query">
-    <a href="https://tanstack.com/">
-      <img
-        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-query-seeklogo.svg"
-        alt="React Query logo"
-        width="100"
-        height="100"
-      />
-    </a>
-  </span>
-</div>
 <table>
 <thead>
 <tr>
 <th>
-css
+babel
 <th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/css-3.svg alt=css>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel.svg alt=babel>
 <td>
 </tr>
 </tbody>
@@ -115,14 +18,398 @@ css
 <thead>
 <tr>
 <th>
-html
+CSS
 <th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/html-1.svg alt=html>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/css.svg alt=CSS>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+HTML5
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/html.svg alt=HTML5>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+ChatGPT
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/chatgpt.svg alt=ChatGPT>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+D3
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/d3.svg alt=D3>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+Docker
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/docker.svg alt=Docker>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+Eslint
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/eslint.svg alt=Eslint>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+Git
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/git.svg alt=Git>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+Grunt
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/grunt.svg alt=Grunt>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+Gulp
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/gulp.svg alt=Gulp>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+JavaScript
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/javascript-1.svg alt=JavaScript>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+Less
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/less.svg alt=Less>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+NPM
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/npm.svg alt=NPM>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+PostCSS
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/postcss.svg alt=PostCSS>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+PostgreSQL
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/postgresql.svg alt=PostgreSQL>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+Prettier
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/prettier.svg alt=Prettier>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+Pug
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/pug.svg alt=Pug>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+React
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react.svg alt=React>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+React-Query
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-query.svg alt=React-Query>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+Ruby
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ruby.svg alt=Ruby>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+Vagrant
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vagrant.svg alt=Vagrant>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+VirtualBox
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/virtualbox.svg alt=VirtualBox>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+Visual Studio Code
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/visual-studio-code.svg alt=Visual Studio Code>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+Vite
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vitejs.svg alt=Vite>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+Vue
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vue.svg alt=Vue>
+<td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>
+Webpack
+<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/webpack.svg alt=Webpack>
 <td>
 </tr>
 </tbody>

@@ -3,7 +3,8 @@ path = 'https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/'
 
 
 def create_table(file = '', path, options, kwargs)
-    options.each do |key|
+    pp options
+    kwargs.each do |key, value|
         File.open(file, 'a+') do |f|
             f.puts("<table>")
             f.puts("<thead>")
@@ -16,7 +17,7 @@ def create_table(file = '', path, options, kwargs)
             f.puts("<tbody>")
             f.puts("<tr>")
             f.puts("<td>")
-            f.puts("<img src=#{path}#{kwargs[key]} alt=#{key}>")
+            f.puts("<img src=#{path}#{value} alt=#{key}>")
             f.puts("<td>")
             f.puts("</tr>")
             f.puts("</tbody>")
@@ -25,5 +26,5 @@ def create_table(file = '', path, options, kwargs)
     end
 end
 
-create_table('./README.md',path, ['css','html'], LOGOS)
+create_table('./README.md',path, LOGOS.keys, LOGOS)
   
