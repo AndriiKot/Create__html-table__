@@ -7,7 +7,7 @@ def create_table(file = '', path, options, kwargs)
   p options.size
     kwargs.each do |key, value|
         File.open(file, 'a+') do |f|
-            f.puts("<table width=100 height=100>")
+            f.puts("<table width=30 height=30>")
             f.puts("<thead>")
             f.puts("<tr>")
             f.puts("<th>")
