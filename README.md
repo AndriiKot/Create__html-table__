@@ -1,4 +1,4 @@
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -14,7 +14,7 @@ babel
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -30,7 +30,7 @@ CSS
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -46,7 +46,7 @@ HTML5
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -62,7 +62,7 @@ ChatGPT
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -78,7 +78,7 @@ D3
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -94,7 +94,7 @@ Docker
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -110,7 +110,7 @@ Eslint
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -126,7 +126,7 @@ Git
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -142,7 +142,7 @@ Grunt
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -158,7 +158,7 @@ Gulp
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -174,7 +174,7 @@ JavaScript
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -190,7 +190,7 @@ Less
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -206,7 +206,7 @@ NPM
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -222,7 +222,7 @@ PostCSS
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -238,7 +238,7 @@ PostgreSQL
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -254,7 +254,7 @@ Prettier
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -270,7 +270,7 @@ Pug
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -286,7 +286,7 @@ React
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -302,7 +302,7 @@ React-Query
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -318,7 +318,7 @@ Ruby
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -334,7 +334,7 @@ Vagrant
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -350,7 +350,7 @@ VirtualBox
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -366,7 +366,7 @@ Visual Studio Code
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -382,7 +382,7 @@ Vite
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
@@ -398,7 +398,7 @@ Vue
 </tr>
 </tbody>
 </table>
-<table width=100>
+<table width=100 height=100>
 <thead>
 <tr>
 <th>
