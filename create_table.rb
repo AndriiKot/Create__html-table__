@@ -7,7 +7,7 @@ def create_table(file = '', path, options, kwargs)
   p options.size
     kwargs.each do |key, value|
         File.open(file, 'a+') do |f|
-            f.puts("<table>")
+            f.puts("<table width=100>")
             f.puts("<thead>")
             f.puts("<tr>")
             f.puts("<th>")
@@ -18,7 +18,7 @@ def create_table(file = '', path, options, kwargs)
             f.puts("<tbody>")
             f.puts("<tr>")
             f.puts("<td>")
-            f.puts("<img src=#{path}#{value} alt=#{key} widht=30 height=30>")
+            f.puts("<img src=#{path}#{value} alt=#{key}>")
             f.puts("</td>")
             f.puts("</tr>")
             f.puts("</tbody>")
