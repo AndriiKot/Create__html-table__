@@ -4,10 +4,10 @@ path = 'https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/'
 
 def create_table(file = '', path, options, kwargs)
     File.open(file, 'w') {|file| file.truncate(0) }
-  p options.size
+  f.puts("<table>")
+
     kwargs.each do |key, value|
         File.open(file, 'a+') do |f|
-            f.puts("<table height=30>")
             f.puts("<thead>")
             f.puts("<tr>")
             f.puts("<th>")
@@ -22,8 +22,8 @@ def create_table(file = '', path, options, kwargs)
             f.puts("</td>")
             f.puts("</tr>")
             f.puts("</tbody>")
-            f.puts("</table>")
         end    
+    f.puts("</table>")
     end
 end
 
