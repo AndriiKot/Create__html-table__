@@ -8,7 +8,7 @@ babel
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel.svg alt=babel>
 </td>
 </tr>
@@ -22,7 +22,7 @@ CSS
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/css.svg alt=CSS>
 </td>
 </tr>
@@ -36,7 +36,7 @@ HTML5
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/html.svg alt=HTML5>
 </td>
 </tr>
@@ -50,7 +50,7 @@ ChatGPT
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/chatgpt.svg alt=ChatGPT>
 </td>
 </tr>
@@ -64,7 +64,7 @@ D3
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/d3.svg alt=D3>
 </td>
 </tr>
@@ -78,7 +78,7 @@ Docker
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/docker.svg alt=Docker>
 </td>
 </tr>
@@ -92,7 +92,7 @@ Eslint
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/eslint.svg alt=Eslint>
 </td>
 </tr>
@@ -106,7 +106,7 @@ Git
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/git.svg alt=Git>
 </td>
 </tr>
@@ -120,7 +120,7 @@ Grunt
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/grunt.svg alt=Grunt>
 </td>
 </tr>
@@ -134,7 +134,7 @@ Gulp
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/gulp.svg alt=Gulp>
 </td>
 </tr>
@@ -148,7 +148,7 @@ JavaScript
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/javascript-1.svg alt=JavaScript>
 </td>
 </tr>
@@ -162,7 +162,7 @@ Less
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/less.svg alt=Less>
 </td>
 </tr>
@@ -176,7 +176,7 @@ NPM
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/npm.svg alt=NPM>
 </td>
 </tr>
@@ -190,7 +190,7 @@ PostCSS
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/postcss.svg alt=PostCSS>
 </td>
 </tr>
@@ -204,7 +204,7 @@ PostgreSQL
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/postgresql.svg alt=PostgreSQL>
 </td>
 </tr>
@@ -218,7 +218,7 @@ Prettier
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/prettier.svg alt=Prettier>
 </td>
 </tr>
@@ -232,7 +232,7 @@ Pug
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/pug.svg alt=Pug>
 </td>
 </tr>
@@ -246,7 +246,7 @@ React
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react.svg alt=React>
 </td>
 </tr>
@@ -260,7 +260,7 @@ React-Query
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-query.svg alt=React-Query>
 </td>
 </tr>
@@ -274,7 +274,7 @@ Ruby
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ruby.svg alt=Ruby>
 </td>
 </tr>
@@ -288,7 +288,7 @@ Vagrant
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vagrant.svg alt=Vagrant>
 </td>
 </tr>
@@ -302,7 +302,7 @@ VirtualBox
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/virtualbox.svg alt=VirtualBox>
 </td>
 </tr>
@@ -316,7 +316,7 @@ Visual Studio Code
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/visual-studio-code.svg alt=Visual Studio Code>
 </td>
 </tr>
@@ -330,7 +330,7 @@ Vite
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vitejs.svg alt=Vite>
 </td>
 </tr>
@@ -344,7 +344,7 @@ Vue
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vue.svg alt=Vue>
 </td>
 </tr>
@@ -358,7 +358,7 @@ Webpack
 </thead>
 <tbody>
 <tr>
-<td height=200 width=200>
+<td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/webpack.svg alt=Webpack>
 </td>
 </tr>
