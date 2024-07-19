@@ -23,8 +23,8 @@ def create_table(file = '', path, options, kwargs)
                     f.puts("</td>")
                     f.puts("</tr>")
                     f.puts("</tbody>")
-        f.puts("</table>")
         end
+        f.puts("</table>")
     end
 end
 
