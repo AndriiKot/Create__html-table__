@@ -7,8 +7,8 @@ babel
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel.svg alt=babel>
 </td>
 </tr>
@@ -21,8 +21,8 @@ CSS
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/css.svg alt=CSS>
 </td>
 </tr>
@@ -35,8 +35,8 @@ HTML5
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/html.svg alt=HTML5>
 </td>
 </tr>
@@ -49,8 +49,8 @@ ChatGPT
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/chatgpt.svg alt=ChatGPT>
 </td>
 </tr>
@@ -63,8 +63,8 @@ D3
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/d3.svg alt=D3>
 </td>
 </tr>
@@ -77,8 +77,8 @@ Docker
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/docker.svg alt=Docker>
 </td>
 </tr>
@@ -91,8 +91,8 @@ Eslint
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/eslint.svg alt=Eslint>
 </td>
 </tr>
@@ -105,8 +105,8 @@ Git
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/git.svg alt=Git>
 </td>
 </tr>
@@ -119,8 +119,8 @@ Grunt
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/grunt.svg alt=Grunt>
 </td>
 </tr>
@@ -133,8 +133,8 @@ Gulp
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/gulp.svg alt=Gulp>
 </td>
 </tr>
@@ -147,8 +147,8 @@ JavaScript
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/javascript-1.svg alt=JavaScript>
 </td>
 </tr>
@@ -161,8 +161,8 @@ Less
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/less.svg alt=Less>
 </td>
 </tr>
@@ -175,8 +175,8 @@ NPM
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/npm.svg alt=NPM>
 </td>
 </tr>
@@ -189,8 +189,8 @@ PostCSS
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/postcss.svg alt=PostCSS>
 </td>
 </tr>
@@ -203,8 +203,8 @@ PostgreSQL
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/postgresql.svg alt=PostgreSQL>
 </td>
 </tr>
@@ -217,8 +217,8 @@ Prettier
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/prettier.svg alt=Prettier>
 </td>
 </tr>
@@ -231,8 +231,8 @@ Pug
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/pug.svg alt=Pug>
 </td>
 </tr>
@@ -245,8 +245,8 @@ React
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react.svg alt=React>
 </td>
 </tr>
@@ -259,8 +259,8 @@ React-Query
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-query.svg alt=React-Query>
 </td>
 </tr>
@@ -273,8 +273,8 @@ Ruby
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ruby.svg alt=Ruby>
 </td>
 </tr>
@@ -287,8 +287,8 @@ Vagrant
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vagrant.svg alt=Vagrant>
 </td>
 </tr>
@@ -301,8 +301,8 @@ VirtualBox
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/virtualbox.svg alt=VirtualBox>
 </td>
 </tr>
@@ -315,8 +315,8 @@ Visual Studio Code
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/visual-studio-code.svg alt=Visual Studio Code>
 </td>
 </tr>
@@ -329,8 +329,8 @@ Vite
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vitejs.svg alt=Vite>
 </td>
 </tr>
@@ -343,8 +343,8 @@ Vue
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vue.svg alt=Vue>
 </td>
 </tr>
@@ -357,8 +357,8 @@ Webpack
 </tr>
 </thead>
 <tbody>
-<tr style='height: 20px;'>
-<td>
+<tr>
+<td style='height: 20px;'>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/webpack.svg alt=Webpack>
 </td>
 </tr>
