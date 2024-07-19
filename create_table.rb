@@ -9,7 +9,6 @@ def create_table(file = '', path, options, kwargs)
         f.puts("<table>")
 
         kwargs.each do |key, value|
-                options.size.times do |i|
                     f.puts("<thead>")
                     f.puts("<tr>")
                     f.puts("<th>")
@@ -24,7 +23,6 @@ def create_table(file = '', path, options, kwargs)
                     f.puts("</td>")
                     f.puts("</tr>")
                     f.puts("</tbody>")
-                end
         f.puts("</table>")
         end
     end
