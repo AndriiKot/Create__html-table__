@@ -6,13 +6,6 @@ babel
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel.svg alt=babel widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -22,13 +15,6 @@ CSS
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/css.svg alt=CSS widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -38,13 +24,6 @@ HTML5
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/html.svg alt=HTML5 widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -54,13 +33,6 @@ ChatGPT
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/chatgpt.svg alt=ChatGPT widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -70,13 +42,6 @@ D3
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/d3.svg alt=D3 widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -86,13 +51,6 @@ Docker
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/docker.svg alt=Docker widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -102,13 +60,6 @@ Eslint
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/eslint.svg alt=Eslint widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -118,13 +69,6 @@ Git
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/git.svg alt=Git widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -134,13 +78,6 @@ Grunt
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/grunt.svg alt=Grunt widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -150,13 +87,6 @@ Gulp
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/gulp.svg alt=Gulp widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -166,13 +96,6 @@ JavaScript
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/javascript-1.svg alt=JavaScript widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -182,13 +105,6 @@ Less
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/less.svg alt=Less widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -198,13 +114,6 @@ NPM
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/npm.svg alt=NPM widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -214,13 +123,6 @@ PostCSS
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/postcss.svg alt=PostCSS widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -230,13 +132,6 @@ PostgreSQL
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/postgresql.svg alt=PostgreSQL widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -246,13 +141,6 @@ Prettier
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/prettier.svg alt=Prettier widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -262,13 +150,6 @@ Pug
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/pug.svg alt=Pug widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -278,13 +159,6 @@ React
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react.svg alt=React widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -294,13 +168,6 @@ React-Query
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-query.svg alt=React-Query widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -310,13 +177,6 @@ Ruby
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ruby.svg alt=Ruby widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -326,13 +186,6 @@ Vagrant
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vagrant.svg alt=Vagrant widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -342,13 +195,6 @@ VirtualBox
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/virtualbox.svg alt=VirtualBox widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -358,13 +204,6 @@ Visual Studio Code
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/visual-studio-code.svg alt=Visual Studio Code widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -374,13 +213,6 @@ Vite
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vitejs.svg alt=Vite widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -390,13 +222,6 @@ Vue
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vue.svg alt=Vue widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
 <table>
 <thead>
@@ -406,11 +231,4 @@ Webpack
 <th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/webpack.svg alt=Webpack widht=30 height=30>
-<td>
-</tr>
-</tbody>
 </table>
