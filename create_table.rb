@@ -9,7 +9,7 @@ def create_table(file = '', path, options, kwargs)
         f.puts("<table>")
 
         kwargs.each do |key, value|
-                    f.puts("<thead>")
+                    f.puts("<thead width=200>")
                     f.puts("<tr>")
                     f.puts("<th>")
                     f.puts("#{key}")

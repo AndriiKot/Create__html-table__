@@ -1,5 +1,5 @@
 <table>
-<thead>
+<thead width=200>
 <tr>
 <th>
 babel
@@ -13,7 +13,7 @@ babel
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 CSS
@@ -27,7 +27,7 @@ CSS
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 HTML5
@@ -41,7 +41,7 @@ HTML5
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 ChatGPT
@@ -55,7 +55,7 @@ ChatGPT
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 D3
@@ -69,7 +69,7 @@ D3
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 Docker
@@ -83,7 +83,7 @@ Docker
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 Eslint
@@ -97,7 +97,7 @@ Eslint
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 Git
@@ -111,7 +111,7 @@ Git
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 Grunt
@@ -125,7 +125,7 @@ Grunt
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 Gulp
@@ -139,7 +139,7 @@ Gulp
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 JavaScript
@@ -153,7 +153,7 @@ JavaScript
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 Less
@@ -167,7 +167,7 @@ Less
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 NPM
@@ -181,7 +181,7 @@ NPM
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 PostCSS
@@ -195,7 +195,7 @@ PostCSS
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 PostgreSQL
@@ -209,7 +209,7 @@ PostgreSQL
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 Prettier
@@ -223,7 +223,7 @@ Prettier
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 Pug
@@ -237,7 +237,7 @@ Pug
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 React
@@ -251,7 +251,7 @@ React
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 React-Query
@@ -265,7 +265,7 @@ React-Query
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 Ruby
@@ -279,7 +279,7 @@ Ruby
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 Vagrant
@@ -293,7 +293,7 @@ Vagrant
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 VirtualBox
@@ -307,7 +307,7 @@ VirtualBox
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 Visual Studio Code
@@ -321,7 +321,7 @@ Visual Studio Code
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 Vite
@@ -335,7 +335,7 @@ Vite
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 Vue
@@ -349,7 +349,7 @@ Vue
 </td>
 </tr>
 </tbody>
-<thead>
+<thead width=200>
 <tr>
 <th>
 Webpack
