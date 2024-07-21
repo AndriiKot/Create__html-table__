@@ -175,6 +175,9 @@ Grunt
 PostgreSQL
 </th>
 <th height=33>
+DBeaver
+</th>
+<th height=33>
 Ruby
 </th>
 </tr>
@@ -183,6 +186,9 @@ Ruby
 <tr>
 <td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/postgresql.svg alt=PostgreSQL>
+</td>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=DBeaver>
 </td>
 <td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ruby.svg alt=Ruby>

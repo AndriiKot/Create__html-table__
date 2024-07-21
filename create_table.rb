@@ -36,7 +36,7 @@ arrHTML = ['HTML5', 'Pug']
 arrJS = ['JavaScript', 'TypeScript', 'Vue', 'Eslint', 'Prettier', 'Babel']
 arrReact = ['React', 'React Query' ]
 arrTaskRuner = ['Vite', 'Webpack', 'NPM', 'Gulp', 'Grunt']
-arrSQL = ['PostgreSQL', 'Ruby']
+arrSQL = ['PostgreSQL', 'DBeaver', 'Ruby']
 
 
 create_table('./README.md',path, 100, arrCSS, LOGOS)
