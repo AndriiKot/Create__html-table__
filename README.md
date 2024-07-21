@@ -101,7 +101,7 @@ Babel
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/prettier.svg alt=Prettier>
 </td>
 <td height=100 width=100>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Babel>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel.svg alt=Babel>
 </td>
 </tr>
 </tbody>
