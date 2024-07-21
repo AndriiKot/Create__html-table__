@@ -2,7 +2,7 @@
 path = 'https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/'
 
 
-File.open('./README.md', 'w') {|file| file.truncate(0) }
+File.open('./README.html', 'w') {|file| file.truncate(0) }
 
 def create_table(file = '', path, height, options, kwargs)
 
