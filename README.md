@@ -1,7 +1,7 @@
 <table>
 <thead>
 <tr>
-<th height=30>
+<th height=20>
 Less
 </th>
 </tr>
@@ -15,7 +15,7 @@ Less
 </tbody>
 <thead>
 <tr>
-<th height=30>
+<th height=20>
 CSS
 </th>
 </tr>
