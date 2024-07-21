@@ -44,7 +44,7 @@ def create_table(file = '', path, options, kwargs)
     end
 end
 
-arrCSS = %w[Less CSS] 
+arrCSS =['Less', 'CSS'] 
 create_table('./README.md',path, arrCSS, LOGOS)
   
     # 'CSS' => 'css.svg',
