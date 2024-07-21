@@ -8,18 +8,18 @@ def create_table(file = '', path, options, kwargs)
     File.open(file, 'w+') do |f|
         f.puts("<table>")
 
-        kwargs.each do |key, value|
+        options.each do |value|
                     f.puts("<thead>")
                     f.puts("<tr>")
                     f.puts("<th height=20>")
-                    f.puts("#{key}")
+                    f.puts("#{value}")
                     f.puts("</th>")
                     f.puts("</tr>")
                     f.puts("</thead>")
                     f.puts("<tbody>")
                     f.puts("<tr>")
                     f.puts("<td height=50 width=50>")
-                    f.puts("<img src=#{path}#{value} alt=#{key}>")
+                    f.puts("<img src=#{path}#{kwargs[value]} alt=#{value}>")
                     f.puts("</td>")
                     f.puts("</tr>")
                     f.puts("</tbody>")
