@@ -27,7 +27,7 @@ def create_table(file = '', path, height, options, kwargs)
             p height
             f.puts("<thead>")
             f.puts("<tr>")
-            f.puts("<th height=#{height}>")
+            f.puts("<th height=#{height / 2}>")
             f.puts("#{key}")
             f.puts("</th>")
             f.puts("</tr>")
