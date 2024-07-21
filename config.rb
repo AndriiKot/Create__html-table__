@@ -29,7 +29,7 @@ LOGOS = {
 
 
     'PostgreSQL' => 'postgresql.svg',
-    'Dbeaver' => 'dbeaver.svg',
+    'DBeaver' => 'dbeaver.svg',
     'Ruby' => 'ruby.svg',
 
 

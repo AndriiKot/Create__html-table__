@@ -188,7 +188,7 @@ Ruby
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/postgresql.svg alt=PostgreSQL>
 </td>
 <td height=100 width=100>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=DBeaver>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/dbeaver.svg alt=DBeaver>
 </td>
 <td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ruby.svg alt=Ruby>
