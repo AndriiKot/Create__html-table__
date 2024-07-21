@@ -1,5 +1,7 @@
 LOGOS = { 'babel' => 'babel.svg',
     'CSS' => 'css.svg',
+    'SASS' => 'sass.svg',
+    'Stylus' => 'stylus.svg',
     'HTML5' => 'html.svg',
     'ChatGPT' => 'chatgpt.svg',
     'D3' => 'd3.svg',

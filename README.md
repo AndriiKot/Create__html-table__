@@ -37,7 +37,7 @@ SASS
 <tbody>
 <tr>
 <td height=100 width=100>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=SASS>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/sass.svg alt=SASS>
 </td>
 </tr>
 </tbody>
@@ -51,7 +51,7 @@ Stylus
 <tbody>
 <tr>
 <td height=100 width=100>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Stylus>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/stylus.svg alt=Stylus>
 </td>
 </tr>
 </tbody>
