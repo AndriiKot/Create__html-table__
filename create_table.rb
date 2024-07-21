@@ -41,40 +41,15 @@ arrProjectManager = ['Git', 'Visual Studio Code', 'ChatGPT']
 arrApplicationDev = ['Docker', 'VirtualBox', 'Vagrant']
 
 
-create_table('./README.md',path, 100, arrCSS, LOGOS)
-create_table('./README.md',path, 100, arrHTML, LOGOS)
-create_table('./README.md',path, 100, arrJS, LOGOS)
-create_table('./README.md',path, 100, arrReact, LOGOS)
-create_table('./README.md',path, 100, arrTaskRuner, LOGOS)
-create_table('./README.md',path, 100, arrSQL, LOGOS)
-create_table('./README.md',path, 100, arrProjectManager, LOGOS)
-create_table('./README.md',path, 100, arrApplicationDev, LOGOS)
+create_table('./README.html',path, 100, arrCSS, LOGOS)
+create_table('./README.html',path, 100, arrHTML, LOGOS)
+create_table('./README.html',path, 100, arrJS, LOGOS)
+create_table('./README.html',path, 100, arrReact, LOGOS)
+create_table('./README.html',path, 100, arrTaskRuner, LOGOS)
+create_table('./README.html',path, 100, arrSQL, LOGOS)
+create_table('./README.html',path, 100, arrProjectManager, LOGOS)
+create_table('./README.html',path, 100, arrApplicationDev, LOGOS)
 
 
 
   
-    # 'CSS' => 'css.svg',
-    # 'HTML5' => 'html.svg',
-    # 'ChatGPT' => 'chatgpt.svg',
-    # 'D3' => 'd3.svg',
-    # 'Docker' => 'docker.svg',
-    # 'Eslint' => 'eslint.svg',
-    # 'Git' => 'git.svg',
-    # 'Grunt' => 'grunt.svg',
-    # 'Gulp' => 'gulp.svg',
-    # 'JavaScript' => 'javascript-1.svg',
-    # 'Less' => 'less.svg',
-    # 'NPM' => 'npm.svg',
-    # 'PostCSS' => 'postcss.svg',
-    # 'PostgreSQL' => 'postgresql.svg',
-    # 'Prettier' => 'prettier.svg',
-    # 'Pug' => 'pug.svg',
-    # 'React' => 'react.svg',
-    # 'React-Query' => 'react-query.svg',
-    # 'Ruby' => 'ruby.svg',
-    # 'Vagrant' => 'vagrant.svg',
-    # 'VirtualBox' => 'virtualbox.svg',
-    # 'Visual Studio Code' => 'visual-studio-code.svg',
-    # 'Vite' => 'vitejs.svg',
-    # 'Vue' => 'vue.svg',
-    # 'Webpack' => 'webpack.svg' 
