@@ -51,11 +51,14 @@ arrCSS = ['CSS','PostCSS','SASS', 'Stylus', 'Less']
 arrHTML = ['HTML5', 'Pug']
 arrJS = ['JavaScript', 'TypeScript', 'Vue', 'Eslint', 'Prettier', 'Babel']
 arrReact = ['React', 'React Query' ]
+arrTaskRuner = ['Vie', 'Webpack', 'Npm', 'Gulp', 'Grunt']
+
 
 create_table('./README.md',path, 100, arrCSS, LOGOS)
 create_table('./README.md',path, 100, arrHTML, LOGOS)
 create_table('./README.md',path, 100, arrJS, LOGOS)
 create_table('./README.md',path, 100, arrReact, LOGOS)
+create_table('./README.md',path, 100, arrTaskRuner, LOGOS)
 
 
   
