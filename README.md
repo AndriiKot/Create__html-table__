@@ -38,3 +38,25 @@ Less
 </tr>
 </tbody>
 </table>
+<table>
+<thead>
+<tr>
+<th height=33>
+HTML5
+</th>
+<th height=33>
+Pug
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/html.svg alt=HTML5>
+</td>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/pug.svg alt=Pug>
+</td>
+</tr>
+</tbody>
+</table>
