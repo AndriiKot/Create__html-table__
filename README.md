@@ -1,28 +1,28 @@
 <table>
 <thead>
 <tr>
-<th height=33>
+<th height=333>
 Less
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td height=100 width=100>
+<td height=1000 width=1000>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/less.svg alt=Less>
 </td>
 </tr>
 </tbody>
 <thead>
 <tr>
-<th height=33>
+<th height=333>
 CSS
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td height=100 width=100>
+<td height=1000 width=1000>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/css.svg alt=CSS>
 </td>
 </tr>
