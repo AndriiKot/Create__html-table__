@@ -44,7 +44,7 @@ def create_table(file = '', path, options, kwargs)
     end
 end
 
-create_table('./README.md',path, ['CSS'], LOGOS)
+create_table('./README.md',path, ['CSS','Less'], LOGOS)
   
     # 'CSS' => 'css.svg',
     # 'HTML5' => 'html.svg',
