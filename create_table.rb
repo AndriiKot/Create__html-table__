@@ -2,7 +2,7 @@
 path = 'https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/'
 
 
-def create_table(file = '', path, options, kwargs)
+def create_table(file = '', path, height, options, kwargs)
     File.open(file, 'w') {|file| file.truncate(0) }
 
     File.open(file, 'w+') do |f|
@@ -26,7 +26,7 @@ def create_table(file = '', path, options, kwargs)
         options.each do |key|
             f.puts("<thead>")
             f.puts("<tr>")
-            f.puts("<th height=20>")
+            f.puts("<th height=#{height}>")
             f.puts("#{key}")
             f.puts("</th>")
             f.puts("</tr>")
@@ -45,7 +45,7 @@ def create_table(file = '', path, options, kwargs)
 end
 
 arrCSS =['Less', 'CSS'] 
-create_table('./README.md',path, arrCSS, LOGOS)
+create_table('./README.md',path, 30, arrCSS, LOGOS)
   
     # 'CSS' => 'css.svg',
     # 'HTML5' => 'html.svg',
