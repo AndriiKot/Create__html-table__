@@ -60,3 +60,49 @@ Pug
 </tr>
 </tbody>
 </table>
+<table>
+<thead>
+<tr>
+<th height=33>
+JavaScript
+</th>
+<th height=33>
+TypeScript
+</th>
+<th height=33>
+Vue
+</th>
+<th height=33>
+Eslint
+</th>
+<th height=33>
+Prettier
+</th>
+<th height=33>
+Babel
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/javascript-1.svg alt=JavaScript>
+</td>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=TypeScript>
+</td>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vue.svg alt=Vue>
+</td>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/eslint.svg alt=Eslint>
+</td>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/prettier.svg alt=Prettier>
+</td>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Babel>
+</td>
+</tr>
+</tbody>
+</table>
