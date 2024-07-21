@@ -89,7 +89,7 @@ Babel
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/javascript-1.svg alt=JavaScript>
 </td>
 <td height=100 width=100>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/typesctipt.svg alt=TypeScript>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/typescript.svg alt=TypeScript>
 </td>
 <td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vue.svg alt=Vue>

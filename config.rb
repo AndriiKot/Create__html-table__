@@ -6,7 +6,7 @@ LOGOS = {
     'HTML5' => 'html.svg',
     'Pug' => 'pug.svg',
     'JavaScript' => 'javascript-1.svg',
-    'TypeScript' => 'typesctipt.svg',
+    'TypeScript' => 'typescript.svg',
 
     'Babel' => 'babel.svg',
     'ChatGPT' => 'chatgpt.svg',
