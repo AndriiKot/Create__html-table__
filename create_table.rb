@@ -7,23 +7,39 @@ def create_table(file = '', path, options, kwargs)
 
     File.open(file, 'w+') do |f|
         f.puts("<table>")
-
-        kwargs.each do |key, value|
-                    f.puts("<thead>")
-                    f.puts("<tr>")
-                    f.puts("<th height=20>")
-                    f.puts("#{key}")
-                    f.puts("</th>")
-                    f.puts("</tr>")
-                    f.puts("</thead>")
-                    f.puts("<tbody>")
-                    f.puts("<tr>")
-                    f.puts("<td height=50 width=50>")
-                    f.puts("<img src=#{path}#{value} alt=#{key}>")
-                    f.puts("</td>")
-                    f.puts("</tr>")
-                    f.puts("</tbody>")
+        # kwargs.each do |key, value|
+        #             f.puts("<thead>")
+        #             f.puts("<tr>")
+        #             f.puts("<th height=20>")
+        #             f.puts("#{key}")
+        #             f.puts("</th>")
+        #             f.puts("</tr>")
+        #             f.puts("</thead>")
+        #             f.puts("<tbody>")
+        #             f.puts("<tr>")
+        #             f.puts("<td height=50 width=50>")
+        #             f.puts("<img src=#{path}#{value} alt=#{key}>")
+        #             f.puts("</td>")
+        #             f.puts("</tr>")
+        #             f.puts("</tbody>")
+        # end
+        options.each do |key|
+            f.puts("<thead>")
+            f.puts("<tr>")
+            f.puts("<th height=20>")
+            f.puts("#{key}")
+            f.puts("</th>")
+            f.puts("</tr>")
+            f.puts("</thead>")
+            f.puts("<tbody>")
+            f.puts("<tr>")
+            f.puts("<td height=50 width=50>")
+            f.puts("<img src=#{path}#{kwargs[key]} alt=#{key}>")
+            f.puts("</td>")
+            f.puts("</tr>")
+            f.puts("</tbody>")
         end
+
         f.puts("</table>")
     end
 end
