@@ -24,7 +24,7 @@ def create_table(file = '', path, height, options, kwargs)
         #             f.puts("</tbody>")
         # end
         options.each do |key|
-            p height
+            # p height
             f.puts("<thead>")
             f.puts("<tr>")
             f.puts("<th height=#{height / 3}>")
@@ -46,7 +46,7 @@ def create_table(file = '', path, height, options, kwargs)
 end
 
 arrCSS =['Less', 'CSS'] 
-create_table('./README.md',path, 100, arrCSS, LOGOS)
+create_table('./README.md',path, 300, arrCSS, LOGOS)
   
     # 'CSS' => 'css.svg',
     # 'HTML5' => 'html.svg',
