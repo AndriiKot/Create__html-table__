@@ -28,6 +28,9 @@ LOGOS = {
     'Grunt' => 'grunt.svg',
 
 
+    'PostgreSQL' => 'postgresql.svg',
+    'Dbeaver' => 'dbeaver.svg',
+    'Ruby' => 'ruby.svg',
 
 
 
@@ -35,8 +38,6 @@ LOGOS = {
     'D3' => 'd3.svg',
     'Docker' => 'docker.svg',
     'Git' => 'git.svg',
-    'PostgreSQL' => 'postgresql.svg',
-    'Ruby' => 'ruby.svg',
     'Vagrant' => 'vagrant.svg',
     'VirtualBox' => 'virtualbox.svg',
     'Visual Studio Code' => 'visual-studio-code.svg',
