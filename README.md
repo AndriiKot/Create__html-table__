@@ -128,3 +128,43 @@ React Query
 </tr>
 </tbody>
 </table>
+<table>
+<thead>
+<tr>
+<th height=33>
+Vie
+</th>
+<th height=33>
+Webpack
+</th>
+<th height=33>
+Npm
+</th>
+<th height=33>
+Gulp
+</th>
+<th height=33>
+Grunt
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Vie>
+</td>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/webpack.svg alt=Webpack>
+</td>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Npm>
+</td>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/gulp.svg alt=Gulp>
+</td>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/grunt.svg alt=Grunt>
+</td>
+</tr>
+</tbody>
+</table>
