@@ -8,22 +8,6 @@ def create_table(file = '', path, height, options, kwargs)
 
     File.open(file, 'a+') do |f|
         f.puts("<table>")
-        # kwargs.each do |key, value|
-        #             f.puts("<thead>")
-        #             f.puts("<tr>")
-        #             f.puts("<th height=20>")
-        #             f.puts("#{key}")
-        #             f.puts("</th>")
-        #             f.puts("</tr>")
-        #             f.puts("</thead>")
-        #             f.puts("<tbody>")
-        #             f.puts("<tr>")
-        #             f.puts("<td height=50 width=50>")
-        #             f.puts("<img src=#{path}#{value} alt=#{key}>")
-        #             f.puts("</td>")
-        #             f.puts("</tr>")
-        #             f.puts("</tbody>")
-        # end
             f.puts("<thead>")
             f.puts("<tr>")
         options.size.times do |i|
