@@ -196,3 +196,31 @@ Ruby
 </tr>
 </tbody>
 </table>
+<table>
+<thead>
+<tr>
+<th height=33>
+Git
+</th>
+<th height=33>
+Visual Studio Code
+</th>
+<th height=33>
+ChatGPT
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/git.svg alt=Git>
+</td>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/visual-studio-code.svg alt=Visual Studio Code>
+</td>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/chatgpt.svg alt=ChatGPT>
+</td>
+</tr>
+</tbody>
+</table>

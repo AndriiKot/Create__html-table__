@@ -32,15 +32,17 @@ LOGOS = {
     'DBeaver' => 'dbeaver.svg',
     'Ruby' => 'ruby.svg',
 
-
-
+    'Git' => 'git.svg',
+    'Visual Studio Code' => 'visual-studio-code.svg',
     'ChatGPT' => 'chatgpt.svg',
+
+
+
+
     'D3' => 'd3.svg',
     'Docker' => 'docker.svg',
-    'Git' => 'git.svg',
     'Vagrant' => 'vagrant.svg',
     'VirtualBox' => 'virtualbox.svg',
-    'Visual Studio Code' => 'visual-studio-code.svg',
 }
 
 

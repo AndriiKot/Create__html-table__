@@ -37,6 +37,7 @@ arrJS = ['JavaScript', 'TypeScript', 'Vue', 'Eslint', 'Prettier', 'Babel']
 arrReact = ['React', 'React Query' ]
 arrTaskRuner = ['Vite', 'Webpack', 'NPM', 'Gulp', 'Grunt']
 arrSQL = ['PostgreSQL', 'DBeaver', 'Ruby']
+arrProjectManager = ['Git', 'Visual Studio Code', 'ChatGPT']
 
 
 create_table('./README.md',path, 100, arrCSS, LOGOS)
@@ -45,6 +46,7 @@ create_table('./README.md',path, 100, arrJS, LOGOS)
 create_table('./README.md',path, 100, arrReact, LOGOS)
 create_table('./README.md',path, 100, arrTaskRuner, LOGOS)
 create_table('./README.md',path, 100, arrSQL, LOGOS)
+create_table('./README.md',path, 100, arrProjectManager, LOGOS)
 
 
 
