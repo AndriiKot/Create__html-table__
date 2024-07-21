@@ -26,6 +26,7 @@ def create_table(file = '', path, options, kwargs)
         end
         f.puts("</table>")
     end
+    p "Finished!!!"
 end
 
 create_table('./README.md',path, %w[CSS, PostCSS, SASS, Stylus, Less], LOGOS)
