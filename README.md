@@ -106,3 +106,25 @@ Babel
 </tr>
 </tbody>
 </table>
+<table>
+<thead>
+<tr>
+<th height=33>
+React
+</th>
+<th height=33>
+React Query
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react.svg alt=React>
+</td>
+<td height=100 width=100>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-query.svg alt=React Query>
+</td>
+</tr>
+</tbody>
+</table>

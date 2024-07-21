@@ -50,10 +50,12 @@ end
 arrCSS = ['CSS','PostCSS','SASS', 'Stylus', 'Less'] 
 arrHTML = ['HTML5', 'Pug']
 arrJS = ['JavaScript', 'TypeScript', 'Vue', 'Eslint', 'Prettier', 'Babel']
+arrReact = ['React', 'React Query' ]
 
 create_table('./README.md',path, 100, arrCSS, LOGOS)
 create_table('./README.md',path, 100, arrHTML, LOGOS)
 create_table('./README.md',path, 100, arrJS, LOGOS)
+create_table('./README.md',path, 100, arrReact, LOGOS)
 
 
   
