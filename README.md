@@ -8,7 +8,7 @@ Less
 </thead>
 <tbody>
 <tr>
-<td height=30 width=50>
+<td height=30 width=30>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/less.svg alt=Less>
 </td>
 </tr>
@@ -22,7 +22,7 @@ CSS
 </thead>
 <tbody>
 <tr>
-<td height=30 width=50>
+<td height=30 width=30>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/css.svg alt=CSS>
 </td>
 </tr>
