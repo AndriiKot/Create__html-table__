@@ -132,13 +132,13 @@ React Query
 <thead>
 <tr>
 <th height=33>
-Vie
+Vite
 </th>
 <th height=33>
 Webpack
 </th>
 <th height=33>
-Npm
+NPM
 </th>
 <th height=33>
 Gulp
@@ -151,13 +151,13 @@ Grunt
 <tbody>
 <tr>
 <td height=100 width=100>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Vie>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vitejs.svg alt=Vite>
 </td>
 <td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/webpack.svg alt=Webpack>
 </td>
 <td height=100 width=100>
-<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Npm>
+<img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/npm.svg alt=NPM>
 </td>
 <td height=100 width=100>
 <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/gulp.svg alt=Gulp>
