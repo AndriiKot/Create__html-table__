@@ -23,29 +23,31 @@ def create_table(file = '', path, height, options, kwargs)
         #             f.puts("</tr>")
         #             f.puts("</tbody>")
         # end
-        options.each do |key|
             f.puts("<thead>")
             f.puts("<tr>")
+        options.size.times do |i|
             f.puts("<th height=#{height / 3}>")
-            f.puts("#{key}")
+            f.puts("#{options[i]}")
             f.puts("</th>")
+        end
             f.puts("</tr>")
             f.puts("</thead>")
             f.puts("<tbody>")
             f.puts("<tr>")
+        options.size.times do |i|
             f.puts("<td height=#{height} width=#{height}>")
-            f.puts("<img src=#{path}#{kwargs[key]} alt=#{key}>")
+            f.puts("<img src=#{path}#{kwargs[options[i]]} alt=#{options[i]}>")
             f.puts("</td>")
+        end
             f.puts("</tr>")
             f.puts("</tbody>")
-        end
 
         f.puts("</table>")
     end
 end
 
 arrCSS =['Less', 'CSS', 'SASS', 'Stylus', 'Less'] 
-create_table('./README.md',path, 100, arrCSS, LOGOS)
+create_table('./README.html',path, 100, arrCSS, LOGOS)
   
     # 'CSS' => 'css.svg',
     # 'HTML5' => 'html.svg',
