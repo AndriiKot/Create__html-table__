@@ -1,7 +1,7 @@
 class TableCreator
   PATH = 'https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/'
   K = 2 # число пробелов для метода with_indent
-  FILE_TO_WRITE = './README2.html'
+  FILE_TO_WRITE = './README.md'
 
   def initialize
     @stacks = YAML.safe_load_file('config/tecnology_stacks.yml')
