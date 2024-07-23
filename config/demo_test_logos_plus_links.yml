@@ -1,42 +1,100 @@
 ﻿CSS:
   svg: css.svg
   link: https://www.w3.org/Style/CSS/
-# PostCSS: postcss.svg
-# SASS: sass.svg
-# Stylus: stylus.svg
-# Less: less.svg
+PostCSS:
+  svg: postcss.svg
+  link: ''
+SASS: 
+  svg: sass.svg
+  link: ''
+Stylus: 
+  svg: stylus.svg
+  link: ''
+Less: 
+  svg: less.svg
+  link: ''
 
-# HTML5: html.svg
-# Pug: pug.svg
+HTML5: 
+  svg: html.svg
+  link: ''
+Pug: 
+  svg: pug.svg
+  link: ''
 
-# JavaScript: javascript-1.svg
-# TypeScript: typescript.svg
-# Vue: vue.svg
-# Babel: babel.svg
-# Prettier: prettier.svg
-# Eslint: eslint.svg
+JavaScript: 
+  svg: javascript-1.svg
+  link: ''
+TypeScript: 
+  svg: typescript.svg
+  link: ''
+Vue: 
+  svg: vue.svg
+  link: ''
+Babel: 
+  svg: babel.svg
+  link: ''
+Prettier: 
+  svg: prettier.svg
+  link: ''
+Eslint: 
+  svg: eslint.svg
+  link: ''
 
-# React: react.svg
-# "React Query": react-query.svg
+React: 
+  svg: react.svg
+  link: ''
+"React Query":
+  svg: react-query.svg
+  link: ''
 
-# Vite: vitejs.svg
-# Webpack: webpack.svg
-# NPM: npm.svg
-# Gulp: gulp.svg
-# Grunt: grunt.svg
+Vite: 
+  svg: vitejs.svg
+  link: ''
+Webpack: 
+  svg: webpack.svg
+  link: ''
+NPM: 
+  svg: npm.svg
+  link: ''
+Gulp: 
+  svg: gulp.svg
+  link: ''
+Grunt: 
+  svg: grunt.svg
+  link: ''
 
-# PostgreSQL: postgresql.svg
-# DBeaver: dbeaver.svg
-# Ruby: ruby.svg
+PostgreSQL: 
+  svg: postgresql.svg
+  link: ''
+DBeaver: 
+  svg: dbeaver.svg
+  link: ''
+Ruby: 
+  svg: ruby.svg
+  link: ''
 
-# Git: git.svg
-# "Visual Studio Code": visual-studio-code.svg
-# ChatGPT: chatgpt.svg
+Git: 
+  svg: git.svg
+  link: ''
+"Visual Studio Code": 
+  svg: visual-studio-code.svg
+  link: ''
+ChatGPT: 
+  svg: chatgpt.svg
+  link: ''
 
-# D3: d3.svg
-# Docker: docker.svg
-# Vagrant: vagrant.svg
-# VirtualBox: virtualbox.svg
+D3: 
+  svg: d3.svg
+  link: ''
+Docker: 
+  svg: docker.svg
+  link: ''
+Vagrant: 
+  svg: vagrant.svg
+  link: ''
+VirtualBox: 
+  svg: virtualbox.svg
+  link: ''
 
 # - 👋 Hi, I’m @AndriiKot
 # - 👀 I’m interested in Frontend Development

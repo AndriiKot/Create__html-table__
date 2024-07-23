@@ -1,37 +1,37 @@
 arrCSS:
   - CSS
-#   - PostCSS
-#   - SASS
-#   - Stylus
-#   - Less
-# arrHTML:
-#   - HTML5
-#   - Pug
-# arrJS:
-#   - JavaScript
-#   - TypeScript
-#   - Vue
-#   - Eslint
-#   - Prettier
-#   - Babel
-# arrReact:
-#   - React
-#   - React Query
-# arrTaskRuner:
-#   - Vite
-#   - Webpack
-#   - NPM
-#   - Gulp
-#   - Grunt
-# arrSQL:
-#   - PostgreSQL
-#   - DBeaver
-#   - Ruby
-# arrProjectManager:
-#   - Git
-#   - Visual Studio Code
-#   - ChatGPT
-# arrApplicationDev:
-#   - Docker
-#   - VirtualBox
-#   - Vagrant
+  - PostCSS
+  - SASS
+  - Stylus
+  - Less
+arrHTML:
+  - HTML5
+  - Pug
+arrJS:
+  - JavaScript
+  - TypeScript
+  - Vue
+  - Eslint
+  - Prettier
+  - Babel
+arrReact:
+  - React
+  - React Query
+arrTaskRuner:
+  - Vite
+  - Webpack
+  - NPM
+  - Gulp
+  - Grunt
+arrSQL:
+  - PostgreSQL
+  - DBeaver
+  - Ruby
+arrProjectManager:
+  - Git
+  - Visual Studio Code
+  - ChatGPT
+arrApplicationDev:
+  - Docker
+  - VirtualBox
+  - Vagrant
