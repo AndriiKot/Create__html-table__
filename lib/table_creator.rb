@@ -5,7 +5,7 @@ class TableCreator
 
   def initialize
     @stacks = YAML.safe_load_file('config/tecnology_stacks.yml')
-    @logos = YAML.safe_load_file('config/demo_test_logos_plus_links.yml')
+    @technologyes = YAML.safe_load_file('config/demo_test_logos_plus_links.yml')
     File.open(FILE_TO_WRITE, 'w') {|file| file.truncate(0) }
   end
 
@@ -38,8 +38,8 @@ class TableCreator
         link = 'link'
         
         f.puts with_indent("<td height=#{height} width=#{height}>", 3)
-        f.puts with_indent("<a href=#{@logos[technology_name][link]}>", 4)
-        f.puts with_indent("<img src=#{PATH}#{@logos[technology_name][svg]} alt=#{technology_name}>", 5)
+        f.puts with_indent("<a href=#{@technologyes[technology_name][link]}>", 4)
+        f.puts with_indent("<img src=#{PATH}#{@technologyes[technology_name][svg]} alt=#{technology_name}>", 5)
         f.puts with_indent("</a>", 4)
         f.puts with_indent("</td>", 3)
       end
