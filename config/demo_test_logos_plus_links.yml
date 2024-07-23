@@ -3,98 +3,98 @@
   link: https://www.w3.org/Style/CSS/
 PostCSS:
   svg: postcss.svg
-  link: ''
+  link: '#'
 SASS: 
   svg: sass.svg
-  link: ''
+  link: '#'
 Stylus: 
   svg: stylus.svg
-  link: ''
+  link: '#'
 Less: 
   svg: less.svg
-  link: ''
+  link: '#'
 
 HTML5: 
   svg: html.svg
-  link: ''
+  link: '#'
 Pug: 
   svg: pug.svg
-  link: ''
+  link: '#'
 
 JavaScript: 
   svg: javascript-1.svg
-  link: ''
+  link: '#'
 TypeScript: 
   svg: typescript.svg
-  link: ''
+  link: '#'
 Vue: 
   svg: vue.svg
-  link: ''
+  link: '#'
 Babel: 
   svg: babel.svg
-  link: ''
+  link: '#'
 Prettier: 
   svg: prettier.svg
-  link: ''
+  link: '#'
 Eslint: 
   svg: eslint.svg
-  link: ''
+  link: '#'
 
 React: 
   svg: react.svg
-  link: ''
+  link: '#'
 "React Query":
   svg: react-query.svg
-  link: ''
+  link: '#'
 
 Vite: 
   svg: vitejs.svg
-  link: ''
+  link: '#'
 Webpack: 
   svg: webpack.svg
-  link: ''
+  link: '#'
 NPM: 
   svg: npm.svg
-  link: ''
+  link: '#'
 Gulp: 
   svg: gulp.svg
-  link: ''
+  link: '#'
 Grunt: 
   svg: grunt.svg
-  link: ''
+  link: '#'
 
 PostgreSQL: 
   svg: postgresql.svg
-  link: ''
+  link: '#'
 DBeaver: 
   svg: dbeaver.svg
-  link: ''
+  link: '#'
 Ruby: 
   svg: ruby.svg
-  link: ''
+  link: '#'
 
 Git: 
   svg: git.svg
-  link: ''
+  link: '#'
 "Visual Studio Code": 
   svg: visual-studio-code.svg
-  link: ''
+  link: '#'
 ChatGPT: 
   svg: chatgpt.svg
-  link: ''
+  link: '#'
 
 D3: 
   svg: d3.svg
-  link: ''
+  link: '#'
 Docker: 
   svg: docker.svg
-  link: ''
+  link: '#'
 Vagrant: 
   svg: vagrant.svg
-  link: ''
+  link: '#'
 VirtualBox: 
   svg: virtualbox.svg
-  link: ''
+  link: '#'
 
 # - 👋 Hi, I’m @AndriiKot
 # - 👀 I’m interested in Frontend Development
