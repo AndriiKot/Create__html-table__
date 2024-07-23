@@ -1,11 +1,12 @@
 class TableCreator
-  PATH = 'https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/'
+  PATH_TO_ICONS = 'https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/'
+  PATH_TO_CONFIG = './config/'
   K = 2 # число пробелов для метода with_indent
   FILE_TO_WRITE = './README.md'
 
   def initialize
-    @stacks = YAML.safe_load_file('config/tecnology_stacks.yml')
-    @technologyes = YAML.safe_load_file('config/demo_test_logos_plus_links.yml')
+    @stacks = YAML.safe_load_file("#{PATH_TO_CONFIG}/tecnology_stacks.yml")
+    @technologyes = YAML.safe_load_file("#{PATH_TO_CONFIG}/technologyes.yml")
     File.open(FILE_TO_WRITE, 'w') {|file| file.truncate(0) }
   end
 
@@ -39,7 +40,7 @@ class TableCreator
             
         f.puts with_indent("<td height=#{height} width=#{height}>", 3)
         f.puts with_indent("<a href=#{links}>", 4)
-        f.puts with_indent("<img src=#{PATH}#{logos} alt=#{technology_name}>", 5)
+        f.puts with_indent("<img src=#{PATH_TO_ICONS}#{logos} alt=#{technology_name}>", 5)
         f.puts with_indent("</a>", 4)
         f.puts with_indent("</td>", 3)
       end
