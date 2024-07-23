@@ -15,6 +15,7 @@ class TableCreator
     end
   end
 
+  private
   def create_table(height, options)
     File.open(FILE_TO_WRITE, 'a+') do |f|
       f.puts with_indent("<table>")
