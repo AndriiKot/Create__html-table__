@@ -35,10 +35,12 @@ class TableCreator
 
       options.each do |technology_name|
         svg = 'svg'
+        link = 'link'
         
         f.puts with_indent("<td height=#{height} width=#{height}>", 3)
-        #f.puts with_indent("<img src=#{PATH}#{@logos[technology_name]} alt=#{technology_name}>", 4)
-        f.puts with_indent("<img src=#{PATH}#{@logos[technology_name][svg]} alt=#{technology_name}>", 4)
+        f.puts with_indent("<a href=#{@logos[technology_name][link]}>", 4)
+        f.puts with_indent("<img src=#{PATH}#{@logos[technology_name][svg]} alt=#{technology_name}>", 5)
+        f.puts with_indent("</a>", 4)
         f.puts with_indent("</td>", 3)
       end
 
