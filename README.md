@@ -11,7 +11,7 @@
   <tbody>
     <tr>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/{"svg"=>"css.svg", "link"=>"https://www.w3.org/Style/CSS/"} alt=CSS>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=CSS>
       </td>
       <td height=100 width=100>
         <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=PostCSS>
