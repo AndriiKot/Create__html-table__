@@ -11,19 +11,19 @@
   <tbody>
     <tr>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/css.svg alt=CSS>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/{"svg"=>"css.svg", "link"=>"https://www.w3.org/Style/CSS/"} alt=CSS>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/postcss.svg alt=PostCSS>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=PostCSS>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/sass.svg alt=SASS>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=SASS>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/stylus.svg alt=Stylus>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Stylus>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/less.svg alt=Less>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Less>
       </td>
     </tr>
   </tbody>
@@ -38,10 +38,10 @@
   <tbody>
     <tr>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/html.svg alt=HTML5>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=HTML5>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/pug.svg alt=Pug>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Pug>
       </td>
     </tr>
   </tbody>
@@ -60,22 +60,22 @@
   <tbody>
     <tr>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/javascript-1.svg alt=JavaScript>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=JavaScript>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/typescript.svg alt=TypeScript>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=TypeScript>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vue.svg alt=Vue>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Vue>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/eslint.svg alt=Eslint>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Eslint>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/prettier.svg alt=Prettier>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Prettier>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel.svg alt=Babel>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Babel>
       </td>
     </tr>
   </tbody>
@@ -90,10 +90,10 @@
   <tbody>
     <tr>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react.svg alt=React>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=React>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-query.svg alt=React Query>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=React Query>
       </td>
     </tr>
   </tbody>
@@ -111,19 +111,19 @@
   <tbody>
     <tr>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vitejs.svg alt=Vite>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Vite>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/webpack.svg alt=Webpack>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Webpack>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/npm.svg alt=NPM>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=NPM>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/gulp.svg alt=Gulp>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Gulp>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/grunt.svg alt=Grunt>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Grunt>
       </td>
     </tr>
   </tbody>
@@ -139,13 +139,13 @@
   <tbody>
     <tr>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/postgresql.svg alt=PostgreSQL>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=PostgreSQL>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/dbeaver.svg alt=DBeaver>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=DBeaver>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ruby.svg alt=Ruby>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Ruby>
       </td>
     </tr>
   </tbody>
@@ -161,13 +161,13 @@
   <tbody>
     <tr>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/git.svg alt=Git>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Git>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/visual-studio-code.svg alt=Visual Studio Code>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Visual Studio Code>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/chatgpt.svg alt=ChatGPT>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=ChatGPT>
       </td>
     </tr>
   </tbody>
@@ -183,13 +183,13 @@
   <tbody>
     <tr>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/docker.svg alt=Docker>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Docker>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/virtualbox.svg alt=VirtualBox>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=VirtualBox>
       </td>
       <td height=100 width=100>
-        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vagrant.svg alt=Vagrant>
+        <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/ alt=Vagrant>
       </td>
     </tr>
   </tbody>

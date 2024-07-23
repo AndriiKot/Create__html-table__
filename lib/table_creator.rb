@@ -5,7 +5,7 @@ class TableCreator
 
   def initialize
     @stacks = YAML.safe_load_file('config/tecnology_stacks.yml')
-    @logos = YAML.safe_load_file('config/logos.yml')
+    @logos = YAML.safe_load_file('config/demo_test_logos_plus_links.yml')
     File.open(FILE_TO_WRITE, 'w') {|file| file.truncate(0) }
   end
 
