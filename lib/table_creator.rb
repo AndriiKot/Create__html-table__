@@ -4,10 +4,14 @@ class TableCreator
   K = 2 # число пробелов для метода with_indent
   FILE_TO_WRITE = './README.md'
 
-  def initialize
+  def initialize(**params)
     @stacks = YAML.safe_load_file("#{PATH_TO_CONFIG}/tecnology_stacks.yml")
     @technologyes = YAML.safe_load_file("#{PATH_TO_CONFIG}/technologyes.yml")
-    File.open(FILE_TO_WRITE, 'w') {|file| file.truncate(0) }
+    @file_to_write = params[:file_to_write] ? params[:file_to_write] : FILE_TO_WRITE
+  end
+
+  def add_or_clear_file
+    File.open(@file_to_write, 'w') {|file| file.truncate(0) }
   end
 
   def add_tables
@@ -17,8 +21,9 @@ class TableCreator
   end
 
   private
+
   def create_table(height, options)
-    File.open(FILE_TO_WRITE, 'a+') do |f|
+    File.open(@file_to_write, 'a+') do |f|
       f.puts with_indent("<table>")
 
       f.puts with_indent("<thead>", 1)
@@ -37,7 +42,7 @@ class TableCreator
       options.each do |technology_name|
         logos = @technologyes[technology_name]['svg']
         links = @technologyes[technology_name]['link']
-            
+
         f.puts with_indent("<td height=#{height} width=#{height}>", 3)
         f.puts with_indent("<a href=#{links}>", 4)
         f.puts with_indent("<img src=#{PATH_TO_ICONS}#{logos} alt=#{technology_name}>", 5)
@@ -46,7 +51,7 @@ class TableCreator
       end
 
       f.puts with_indent("</tr>", 2)
-      f.puts with_indent("</tbody>", 1)                                       
+      f.puts with_indent("</tbody>", 1)
 
       f.puts with_indent("</table>")
     end
