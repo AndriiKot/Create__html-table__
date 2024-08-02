@@ -4,11 +4,12 @@ class TableCreator
   K = 2 # число пробелов для метода with_indent
   FILE_TO_WRITE = './README.md'
 
-  def initialize(size: 100, file_to_write: nil, **params)
+  def initialize(size: 100, file_to_write: nil)
     @stacks = YAML.safe_load_file("#{PATH_TO_CONFIG}/tecnology_stacks.yml")
     @technologyes = YAML.safe_load_file("#{PATH_TO_CONFIG}/technologyes.yml")
-    @file_to_write = params[:file_to_write] || FILE_TO_WRITE
+    @file_to_write = file_to_write || FILE_TO_WRITE
     @size_td = size
+    puts @file_to_write
   end
 
   def create_or_clear_file
