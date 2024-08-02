@@ -21,6 +21,7 @@ arrTaskRuner:
   - Vite
   - Webpack
   - NPM
+  - Yarn
   - Gulp
   - Grunt
 arrSQL:

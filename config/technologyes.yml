@@ -56,6 +56,9 @@ Webpack:
 NPM: 
   svg: npm.svg
   link: https://docs.npmjs.com/
+Yarn:
+  svg: yarn.svg,
+  link: https://classic.yarnpkg.com/en/
 Gulp: 
   svg: gulp.svg
   link: https://gulpjs.com/

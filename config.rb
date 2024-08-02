@@ -21,6 +21,7 @@ LOGOS = {
   'Vite' => 'vitejs.svg',
   'Webpack' => 'webpack.svg',
   'NPM' => 'npm.svg',
+  'Yarn' => 'yarn.svg',
   'Gulp' => 'gulp.svg',
   'Grunt' => 'grunt.svg',
 
