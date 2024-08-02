@@ -157,8 +157,8 @@
         </a>
       </td>
       <td height=100 width=100>
-        <!-- <a href=https://classic.yarnpkg.com/en/> -->
-          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/yarn.svg, alt=Yarn>
+        <a href=https://classic.yarnpkg.com/en/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/yarn.svg alt=Yarn>
         </a>
       </td>
       <td height=100 width=100>
