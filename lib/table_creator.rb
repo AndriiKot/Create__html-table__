@@ -32,7 +32,7 @@ class TableCreator
       f.puts with_indent("<tr>", 2)
 
       options.each do |technology_name|
-        f.puts with_indent("<th height=#{height / 3}>#{technology_name}</th>", 3)
+        f.puts with_indent("<th height=#{height / 3} width=#{height}>#{technology_name}</th>", 3)
       end
 
       f.puts with_indent("</tr>", 2)
