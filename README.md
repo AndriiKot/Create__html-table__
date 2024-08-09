@@ -209,6 +209,7 @@
       <th height=33 width=100>Visual Studio Code</th>
       <th height=33 width=100>ChatGPT</th>
       <th height=33 width=100>ConEmu</th>
+      <th height=33 width=100>FarManager</th>
     </tr>
   </thead>
   <tbody>
@@ -231,6 +232,11 @@
       <td height=100 width=100>
         <a href=https://conemu.github.io/blog/2023/07/24/Build-230724.html>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/conemu.svg alt=ConEmu>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://www.farmanager.com/index.php?l=en>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/farmanager.svg alt=FarManager>
         </a>
       </td>
     </tr>

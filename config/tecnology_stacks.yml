@@ -33,6 +33,7 @@ arrProjectManager:
   - Visual Studio Code
   - ChatGPT
   - ConEmu
+  - FarManager
 arrApplicationDev:
   - Docker
   - VirtualBox
