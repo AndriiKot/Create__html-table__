@@ -1,13 +1,11 @@
-# Version 1.0.3
-
 <table>
   <thead>
     <tr>
-      <th height=33>CSS</th>
-      <th height=33>PostCSS</th>
-      <th height=33>SASS</th>
-      <th height=33>Stylus</th>
-      <th height=33>Less</th>
+      <th height=33 width=100>CSS</th>
+      <th height=33 width=100>PostCSS</th>
+      <th height=33 width=100>SASS</th>
+      <th height=33 width=100>Stylus</th>
+      <th height=33 width=100>Less</th>
     </tr>
   </thead>
   <tbody>
@@ -43,8 +41,8 @@
 <table>
   <thead>
     <tr>
-      <th height=33>HTML5</th>
-      <th height=33>Pug</th>
+      <th height=33 width=100>HTML5</th>
+      <th height=33 width=100>Pug</th>
     </tr>
   </thead>
   <tbody>
@@ -65,12 +63,12 @@
 <table>
   <thead>
     <tr>
-      <th height=33>JavaScript</th>
-      <th height=33>TypeScript</th>
-      <th height=33>Vue</th>
-      <th height=33>Eslint</th>
-      <th height=33>Prettier</th>
-      <th height=33>Babel</th>
+      <th height=33 width=100>JavaScript</th>
+      <th height=33 width=100>TypeScript</th>
+      <th height=33 width=100>Vue</th>
+      <th height=33 width=100>Eslint</th>
+      <th height=33 width=100>Prettier</th>
+      <th height=33 width=100>Babel</th>
     </tr>
   </thead>
   <tbody>
@@ -111,8 +109,8 @@
 <table>
   <thead>
     <tr>
-      <th height=33>React</th>
-      <th height=33>React Query</th>
+      <th height=33 width=100>React</th>
+      <th height=33 width=100>React Query</th>
     </tr>
   </thead>
   <tbody>
@@ -133,12 +131,12 @@
 <table>
   <thead>
     <tr>
-      <th height=33>Vite</th>
-      <th height=33>Webpack</th>
-      <th height=33>NPM</th>
-      <th height=33>Yarn</th>
-      <th height=33>Gulp</th>
-      <th height=33>Grunt</th>
+      <th height=33 width=100>Vite</th>
+      <th height=33 width=100>Webpack</th>
+      <th height=33 width=100>NPM</th>
+      <th height=33 width=100>Yarn</th>
+      <th height=33 width=100>Gulp</th>
+      <th height=33 width=100>Grunt</th>
     </tr>
   </thead>
   <tbody>
@@ -179,9 +177,9 @@
 <table>
   <thead>
     <tr>
-      <th height=33>PostgreSQL</th>
-      <th height=33>DBeaver</th>
-      <th height=33>Ruby</th>
+      <th height=33 width=100>PostgreSQL</th>
+      <th height=33 width=100>DBeaver</th>
+      <th height=33 width=100>Ruby</th>
     </tr>
   </thead>
   <tbody>
@@ -207,9 +205,9 @@
 <table>
   <thead>
     <tr>
-      <th height=33>Git</th>
-      <th height=33>Visual Studio Code</th>
-      <th height=33>ChatGPT</th>
+      <th height=33 width=100>Git</th>
+      <th height=33 width=100>Visual Studio Code</th>
+      <th height=33 width=100>ChatGPT</th>
     </tr>
   </thead>
   <tbody>
@@ -235,9 +233,9 @@
 <table>
   <thead>
     <tr>
-      <th height=33>Docker</th>
-      <th height=33>VirtualBox</th>
-      <th height=33>Vagrant</th>
+      <th height=33 width=100>Docker</th>
+      <th height=33 width=100>VirtualBox</th>
+      <th height=33 width=100>Vagrant</th>
     </tr>
   </thead>
   <tbody>
