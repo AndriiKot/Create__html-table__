@@ -85,7 +85,7 @@ Git:
 ChatGPT: 
   svg: chatgpt.svg
   link: https://chatgpt.com/auth/login
-conEmu:
+ConEmu:
   svg: conemu.svg
   link: 'https://conemu.github.io/blog/2023/07/24/Build-230724.html'
 

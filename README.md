@@ -208,6 +208,7 @@
       <th height=33 width=100>Git</th>
       <th height=33 width=100>Visual Studio Code</th>
       <th height=33 width=100>ChatGPT</th>
+      <th height=33 width=100>ConEmu</th>
     </tr>
   </thead>
   <tbody>
@@ -225,6 +226,11 @@
       <td height=100 width=100>
         <a href=https://chatgpt.com/auth/login>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/chatgpt.svg alt=ChatGPT>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://conemu.github.io/blog/2023/07/24/Build-230724.html>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/conemu.svg alt=ConEmu>
         </a>
       </td>
     </tr>
