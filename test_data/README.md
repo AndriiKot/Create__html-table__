@@ -95,7 +95,7 @@
         </a>
       </td>
       <td height=100 width=100>
-        <a href=>
+        <a href=https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/dom.svg alt=DOM>
         </a>
       </td>

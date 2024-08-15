@@ -35,7 +35,7 @@ Eslint:
   link: https://eslint.org/docs/latest/
 DOM:
   svg: dom.svg
-  link: 
+  link: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 Babel: 
   svg: babel.svg
   link: https://babeljs.io/docs/
