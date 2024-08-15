@@ -65,10 +65,11 @@
     <tr>
       <th height=33 width=100>JavaScript</th>
       <th height=33 width=100>TypeScript</th>
-      <th height=33 width=100>Vue</th>
       <th height=33 width=100>Eslint</th>
       <th height=33 width=100>Prettier</th>
+      <th height=33 width=100>DOM</th>
       <th height=33 width=100>Babel</th>
+      <th height=33 width=100>Vue</th>
     </tr>
   </thead>
   <tbody>
@@ -84,11 +85,6 @@
         </a>
       </td>
       <td height=100 width=100>
-        <a href=https://vuejs.org/>
-          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vue.svg alt=Vue>
-        </a>
-      </td>
-      <td height=100 width=100>
         <a href=https://eslint.org/docs/latest/>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/eslint.svg alt=Eslint>
         </a>
@@ -99,8 +95,18 @@
         </a>
       </td>
       <td height=100 width=100>
+        <a href=>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/dom.svg alt=DOM>
+        </a>
+      </td>
+      <td height=100 width=100>
         <a href=https://babeljs.io/docs/>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel.svg alt=Babel>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://vuejs.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vue.svg alt=Vue>
         </a>
       </td>
     </tr>
