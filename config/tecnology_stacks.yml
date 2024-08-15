@@ -10,10 +10,11 @@ arrHTML:
 arrJS:
   - JavaScript
   - TypeScript
-  - Vue
   - Eslint
   - Prettier
+  - DOM
   - Babel
+  - Vue
 arrReact:
   - React
   - React Query

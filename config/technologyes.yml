@@ -27,18 +27,21 @@ JavaScript:
 TypeScript: 
   svg: typescript.svg
   link: https://www.typescriptlang.org/docs/
-Vue: 
-  svg: vue.svg
-  link: https://vuejs.org/
-Babel: 
-  svg: babel.svg
-  link: https://babeljs.io/docs/
 Prettier: 
   svg: prettier.svg
   link: https://prettier.io/
 Eslint: 
   svg: eslint.svg
   link: https://eslint.org/docs/latest/
+DOM:
+  svg: dom.svg
+  link: 
+Babel: 
+  svg: babel.svg
+  link: https://babeljs.io/docs/
+Vue: 
+  svg: vue.svg
+  link: https://vuejs.org/
 
 React: 
   svg: react.svg
