@@ -36,12 +36,6 @@ Eslint:
 DOM:
   svg: dom.svg
   link: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-Babel:
-  svg: babel.svg
-  link: https://babeljs.io/docs/
-Vue:
-  svg: vue.svg
-  link: https://vuejs.org/
 
 React:
   svg: react.svg
@@ -49,6 +43,12 @@ React:
 "React Query":
   svg: react-query.svg
   link: https://tanstack.com/query/latest/docs/framework/react/overview
+Vue:
+  svg: vue.svg
+  link: https://vuejs.org/
+Babel:
+  svg: babel.svg
+  link: https://babeljs.io/docs/
 
 Vite:
   svg: vitejs.svg
@@ -66,12 +66,18 @@ Grunt:
 PostgreSQL:
   svg: postgresql.svg
   link: https://www.postgresql.org/docs/
-DBeaver:
-  svg: dbeaver.svg
-  link: https://dbeaver.com/docs/dbeaver/
 SQLite:
   svg: sqlite.svg
   link: https://www.sqlite.org/index.html
+JSON:
+  svg: json.svg
+  link: https://www.json.org/json-en.html
+YAML:
+  svg: yaml.svg
+  link: https://yaml.org/
+DBeaver:
+  svg: dbeaver.svg
+  link: https://dbeaver.com/docs/dbeaver/
 Ruby:
   svg: ruby.svg
   link: https://ruby-doc.org/
@@ -111,9 +117,6 @@ VirtualBox:
 NodeJS:
   svg: nodejs.svg
   link: https://nodejs.org/en
-JSON:
-  svg: json.svg
-  link: https://www.json.org/json-en.html
 Express:
   svg: express.svg
   link: https://expressjs.com/

@@ -28,6 +28,7 @@ arrSQL:
   - PostgreSQL
   - SQLite
   - JSON
+  - YAML
   - DBeaver
   - Ruby
 arrTaskRuner:

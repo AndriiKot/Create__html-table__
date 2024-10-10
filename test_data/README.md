@@ -180,6 +180,7 @@
       <th height=33 width=100>PostgreSQL</th>
       <th height=33 width=100>SQLite</th>
       <th height=33 width=100>JSON</th>
+      <th height=33 width=100>YAML</th>
       <th height=33 width=100>DBeaver</th>
       <th height=33 width=100>Ruby</th>
     </tr>
@@ -199,6 +200,11 @@
       <td height=100 width=100>
         <a href=https://www.json.org/json-en.html>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/json.svg alt=JSON>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://yaml.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/yaml.svg alt=YAML>
         </a>
       </td>
       <td height=100 width=100>
