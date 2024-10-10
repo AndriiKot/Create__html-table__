@@ -13,21 +13,28 @@ arrJS:
   - Eslint
   - Prettier
   - DOM
-  - Babel
-  - Vue
 arrReact:
   - React
   - React Query
+  - Vue
+  - Babel
+arrNodeJs:
+  - NodeJS
+  - NPM
+  - Yarn
+  - Express
+  - Electron
+arrSQL:
+  - PostgreSQL
+  - SQLite
+  - JSON
+  - DBeaver
+  - Ruby
 arrTaskRuner:
   - Vite
   - Webpack
   - Gulp
   - Grunt
-arrSQL:
-  - PostgreSQL
-  - SQLite
-  - DBeaver
-  - Ruby
 arrProjectManager:
   - Git
   - Visual Studio Code
@@ -40,10 +47,3 @@ arrApplicationDev:
   - VirtualBox
   - Vagrant
 
-arrNodeJs:
-  - NodeJS
-  - JSON
-  - NPM
-  - Yarn
-  - Express
-  - Electron
