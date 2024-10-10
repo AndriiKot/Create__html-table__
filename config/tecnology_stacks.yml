@@ -21,11 +21,10 @@ arrReact:
 arrTaskRuner:
   - Vite
   - Webpack
-  - NPM
-  - Yarn
   - Gulp
   - Grunt
 arrSQL:
+	- SQLite
   - PostgreSQL
   - DBeaver
   - Ruby
@@ -35,7 +34,16 @@ arrProjectManager:
   - ChatGPT
   - ConEmu
   - FarManager
+  - Curl
 arrApplicationDev:
   - Docker
   - VirtualBox
   - Vagrant
+
+arrNodeJs:
+	- NodeJS
+	- JSON
+  - NPM
+  - Yarn
+	- Express
+	- Electron

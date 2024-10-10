@@ -56,12 +56,6 @@ Vite:
 Webpack: 
   svg: webpack.svg
   link: https://webpack.js.org/
-NPM: 
-  svg: npm.svg
-  link: https://docs.npmjs.com/
-Yarn:
-  svg: yarn.svg
-  link: https://classic.yarnpkg.com/en/
 Gulp: 
   svg: gulp.svg
   link: https://gulpjs.com/
@@ -75,6 +69,9 @@ PostgreSQL:
 DBeaver: 
   svg: dbeaver.svg
   link: https://dbeaver.com/docs/dbeaver/
+SQLite:
+	svg: sqlite.svg
+	link: https://www.sqlite.org/index.html
 Ruby: 
   svg: ruby.svg
   link: https://ruby-doc.org/
@@ -94,6 +91,9 @@ ConEmu:
 FarManager:
   svg: farmanager.svg
   link: 'https://www.farmanager.com/index.php?l=en'
+Curl:
+	svg: curl.svg
+	link: https://curl.se/docs/
 
 D3: 
   svg: d3.svg
@@ -107,6 +107,27 @@ Vagrant:
 VirtualBox: 
   svg: virtualbox.svg
   link: https://www.virtualbox.org/
+  
+NodeJS:
+	svg: nodejs.svg
+	link: https://nodejs.org/en
+JSON:
+	svg: json.svg
+	link: https://www.json.org/json-en.html
+Express:
+	svg: express.svg
+	link: https://expressjs.com/
+Electron:
+	svg: electron.svg
+	link: https://www.electronjs.org/
+NPM: 
+  svg: npm.svg
+  link: https://docs.npmjs.com/
+Yarn:
+  svg: yarn.svg
+  link: https://classic.yarnpkg.com/en/
+	
+
 
 # - 👋 Hi, I’m @AndriiKot
 # - 👀 I’m interested in Frontend Development
