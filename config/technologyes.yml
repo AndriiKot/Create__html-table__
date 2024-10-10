@@ -4,131 +4,128 @@
 PostCSS:
   svg: postcss.svg
   link: https://postcss.org/docs/
-SASS: 
+SASS:
   svg: sass.svg
   link: https://sass-lang.com/documentation/
-Stylus: 
+Stylus:
   svg: stylus.svg
   link: https://stylus-lang.com/
-Less: 
+Less:
   svg: less.svg
   link: https://lesscss.org/
 
-HTML5: 
+HTML5:
   svg: html.svg
   link: https://html.spec.whatwg.org/multipage/
-Pug: 
+Pug:
   svg: pug.svg
   link: https://pugjs.org/api/getting-started.html
 
-JavaScript: 
+JavaScript:
   svg: javascript-1.svg
   link: https://ecma-international.org/publications-and-standards/standards/
-TypeScript: 
+TypeScript:
   svg: typescript.svg
   link: https://www.typescriptlang.org/docs/
-Prettier: 
+Prettier:
   svg: prettier.svg
   link: https://prettier.io/
-Eslint: 
+Eslint:
   svg: eslint.svg
   link: https://eslint.org/docs/latest/
 DOM:
   svg: dom.svg
   link: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-Babel: 
+Babel:
   svg: babel.svg
   link: https://babeljs.io/docs/
-Vue: 
+Vue:
   svg: vue.svg
   link: https://vuejs.org/
 
-React: 
+React:
   svg: react.svg
   link: https://react.dev/
 "React Query":
   svg: react-query.svg
   link: https://tanstack.com/query/latest/docs/framework/react/overview
 
-Vite: 
+Vite:
   svg: vitejs.svg
   link: https://vitejs.dev/
-Webpack: 
+Webpack:
   svg: webpack.svg
   link: https://webpack.js.org/
-Gulp: 
+Gulp:
   svg: gulp.svg
   link: https://gulpjs.com/
-Grunt: 
+Grunt:
   svg: grunt.svg
   link: https://gruntjs.com/getting-started
 
-PostgreSQL: 
+PostgreSQL:
   svg: postgresql.svg
   link: https://www.postgresql.org/docs/
-DBeaver: 
+DBeaver:
   svg: dbeaver.svg
   link: https://dbeaver.com/docs/dbeaver/
 SQLite:
-	svg: sqlite.svg
-	link: https://www.sqlite.org/index.html
-Ruby: 
+  svg: sqlite.svg
+  link: https://www.sqlite.org/index.html
+Ruby:
   svg: ruby.svg
   link: https://ruby-doc.org/
 
-Git: 
+Git:
   svg: git.svg
   link: https://www.git-scm.com/doc
-"Visual Studio Code": 
+"Visual Studio Code":
   svg: visual-studio-code.svg
   link: https://code.visualstudio.com/docs
-ChatGPT: 
+ChatGPT:
   svg: chatgpt.svg
   link: https://chatgpt.com/auth/login
 ConEmu:
   svg: conemu.svg
-  link: 'https://conemu.github.io/blog/2023/07/24/Build-230724.html'
+  link: "https://conemu.github.io/blog/2023/07/24/Build-230724.html"
 FarManager:
   svg: farmanager.svg
-  link: 'https://www.farmanager.com/index.php?l=en'
+  link: "https://www.farmanager.com/index.php?l=en"
 Curl:
-	svg: curl.svg
-	link: https://curl.se/docs/
+  svg: curl.svg
+  link: https://curl.se/docs/
 
-D3: 
+D3:
   svg: d3.svg
   link: https://d3js.org/
-Docker: 
+Docker:
   svg: docker.svg
   link: https://docs.docker.com/
-Vagrant: 
+Vagrant:
   svg: vagrant.svg
   link: https://developer.hashicorp.com/vagrant/docs
-VirtualBox: 
+VirtualBox:
   svg: virtualbox.svg
   link: https://www.virtualbox.org/
-  
+
 NodeJS:
-	svg: nodejs.svg
-	link: https://nodejs.org/en
+  svg: nodejs.svg
+  link: https://nodejs.org/en
 JSON:
-	svg: json.svg
-	link: https://www.json.org/json-en.html
+  svg: json.svg
+  link: https://www.json.org/json-en.html
 Express:
-	svg: express.svg
-	link: https://expressjs.com/
+  svg: express.svg
+  link: https://expressjs.com/
 Electron:
-	svg: electron.svg
-	link: https://www.electronjs.org/
-NPM: 
+  svg: electron.svg
+  link: https://www.electronjs.org/
+NPM:
   svg: npm.svg
   link: https://docs.npmjs.com/
 Yarn:
   svg: yarn.svg
   link: https://classic.yarnpkg.com/en/
-	
-
-
 # - 👋 Hi, I’m @AndriiKot
 # - 👀 I’m interested in Frontend Development
 # - 🌱 I’m currently React, Vue, PostgreSQL

@@ -139,8 +139,6 @@
     <tr>
       <th height=33 width=100>Vite</th>
       <th height=33 width=100>Webpack</th>
-      <th height=33 width=100>NPM</th>
-      <th height=33 width=100>Yarn</th>
       <th height=33 width=100>Gulp</th>
       <th height=33 width=100>Grunt</th>
     </tr>
@@ -155,16 +153,6 @@
       <td height=100 width=100>
         <a href=https://webpack.js.org/>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/webpack.svg alt=Webpack>
-        </a>
-      </td>
-      <td height=100 width=100>
-        <a href=https://docs.npmjs.com/>
-          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/npm.svg alt=NPM>
-        </a>
-      </td>
-      <td height=100 width=100>
-        <a href=https://classic.yarnpkg.com/en/>
-          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/yarn.svg alt=Yarn>
         </a>
       </td>
       <td height=100 width=100>
@@ -184,6 +172,7 @@
   <thead>
     <tr>
       <th height=33 width=100>PostgreSQL</th>
+      <th height=33 width=100>SQLite</th>
       <th height=33 width=100>DBeaver</th>
       <th height=33 width=100>Ruby</th>
     </tr>
@@ -193,6 +182,11 @@
       <td height=100 width=100>
         <a href=https://www.postgresql.org/docs/>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/postgresql.svg alt=PostgreSQL>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://www.sqlite.org/index.html>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/sqlite.svg alt=SQLite>
         </a>
       </td>
       <td height=100 width=100>
@@ -216,6 +210,7 @@
       <th height=33 width=100>ChatGPT</th>
       <th height=33 width=100>ConEmu</th>
       <th height=33 width=100>FarManager</th>
+      <th height=33 width=100>Curl</th>
     </tr>
   </thead>
   <tbody>
@@ -245,6 +240,11 @@
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/farmanager.svg alt=FarManager>
         </a>
       </td>
+      <td height=100 width=100>
+        <a href=https://curl.se/docs/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/curl.svg alt=Curl>
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -271,6 +271,52 @@
       <td height=100 width=100>
         <a href=https://developer.hashicorp.com/vagrant/docs>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vagrant.svg alt=Vagrant>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th height=33 width=100>NodeJS</th>
+      <th height=33 width=100>JSON</th>
+      <th height=33 width=100>NPM</th>
+      <th height=33 width=100>Yarn</th>
+      <th height=33 width=100>Express</th>
+      <th height=33 width=100>Electron</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td height=100 width=100>
+        <a href=https://nodejs.org/en>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/nodejs.svg alt=NodeJS>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://www.json.org/json-en.html>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/json.svg alt=JSON>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://docs.npmjs.com/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/npm.svg alt=NPM>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://classic.yarnpkg.com/en/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/yarn.svg alt=Yarn>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://expressjs.com/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/express.svg alt=Express>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://www.electronjs.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/electron.svg alt=Electron>
         </a>
       </td>
     </tr>

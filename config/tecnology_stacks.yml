@@ -24,8 +24,8 @@ arrTaskRuner:
   - Gulp
   - Grunt
 arrSQL:
-	- SQLite
   - PostgreSQL
+  - SQLite
   - DBeaver
   - Ruby
 arrProjectManager:
@@ -41,9 +41,9 @@ arrApplicationDev:
   - Vagrant
 
 arrNodeJs:
-	- NodeJS
-	- JSON
+  - NodeJS
+  - JSON
   - NPM
   - Yarn
-	- Express
-	- Electron
+  - Express
+  - Electron
