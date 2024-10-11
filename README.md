@@ -6,6 +6,7 @@
       <th height=33 width=100>SASS</th>
       <th height=33 width=100>Stylus</th>
       <th height=33 width=100>Less</th>
+      <th height=33 width=100>Bootstrap</th>
     </tr>
   </thead>
   <tbody>
@@ -33,6 +34,11 @@
       <td height=100 width=100>
         <a href=https://lesscss.org/>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/less.svg alt=Less>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://getbootstrap.com/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/bootstrap.svg alt=Bootstrap>
         </a>
       </td>
     </tr>
@@ -68,8 +74,6 @@
       <th height=33 width=100>Eslint</th>
       <th height=33 width=100>Prettier</th>
       <th height=33 width=100>DOM</th>
-      <th height=33 width=100>Babel</th>
-      <th height=33 width=100>Vue</th>
     </tr>
   </thead>
   <tbody>
@@ -99,16 +103,6 @@
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/dom.svg alt=DOM>
         </a>
       </td>
-      <td height=100 width=100>
-        <a href=https://babeljs.io/docs/>
-          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel.svg alt=Babel>
-        </a>
-      </td>
-      <td height=100 width=100>
-        <a href=https://vuejs.org/>
-          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vue.svg alt=Vue>
-        </a>
-      </td>
     </tr>
   </tbody>
 </table>
@@ -117,6 +111,8 @@
     <tr>
       <th height=33 width=100>React</th>
       <th height=33 width=100>React Query</th>
+      <th height=33 width=100>Vue</th>
+      <th height=33 width=100>Babel</th>
     </tr>
   </thead>
   <tbody>
@@ -131,30 +127,34 @@
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-query.svg alt=React Query>
         </a>
       </td>
+      <td height=100 width=100>
+        <a href=https://vuejs.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vue.svg alt=Vue>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://babeljs.io/docs/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel.svg alt=Babel>
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
 <table>
   <thead>
     <tr>
-      <th height=33 width=100>Vite</th>
-      <th height=33 width=100>Webpack</th>
+      <th height=33 width=100>NodeJS</th>
       <th height=33 width=100>NPM</th>
       <th height=33 width=100>Yarn</th>
-      <th height=33 width=100>Gulp</th>
-      <th height=33 width=100>Grunt</th>
+      <th height=33 width=100>Express</th>
+      <th height=33 width=100>Electron</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td height=100 width=100>
-        <a href=https://vitejs.dev/>
-          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vitejs.svg alt=Vite>
-        </a>
-      </td>
-      <td height=100 width=100>
-        <a href=https://webpack.js.org/>
-          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/webpack.svg alt=Webpack>
+        <a href=https://nodejs.org/en>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/nodejs.svg alt=NodeJS>
         </a>
       </td>
       <td height=100 width=100>
@@ -168,13 +168,13 @@
         </a>
       </td>
       <td height=100 width=100>
-        <a href=https://gulpjs.com/>
-          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/gulp.svg alt=Gulp>
+        <a href=https://expressjs.com/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/express.svg alt=Express>
         </a>
       </td>
       <td height=100 width=100>
-        <a href=https://gruntjs.com/getting-started>
-          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/grunt.svg alt=Grunt>
+        <a href=https://www.electronjs.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/electron.svg alt=Electron>
         </a>
       </td>
     </tr>
@@ -184,6 +184,9 @@
   <thead>
     <tr>
       <th height=33 width=100>PostgreSQL</th>
+      <th height=33 width=100>SQLite</th>
+      <th height=33 width=100>JSON</th>
+      <th height=33 width=100>YAML</th>
       <th height=33 width=100>DBeaver</th>
       <th height=33 width=100>Ruby</th>
     </tr>
@@ -193,6 +196,21 @@
       <td height=100 width=100>
         <a href=https://www.postgresql.org/docs/>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/postgresql.svg alt=PostgreSQL>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://www.sqlite.org/index.html>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/sqlite.svg alt=SQLite>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://www.json.org/json-en.html>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/json.svg alt=JSON>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://yaml.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/yaml.svg alt=YAML>
         </a>
       </td>
       <td height=100 width=100>
@@ -211,11 +229,46 @@
 <table>
   <thead>
     <tr>
+      <th height=33 width=100>Vite</th>
+      <th height=33 width=100>Webpack</th>
+      <th height=33 width=100>Gulp</th>
+      <th height=33 width=100>Grunt</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td height=100 width=100>
+        <a href=https://vitejs.dev/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vitejs.svg alt=Vite>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://webpack.js.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/webpack.svg alt=Webpack>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://gulpjs.com/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/gulp.svg alt=Gulp>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://gruntjs.com/getting-started>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/grunt.svg alt=Grunt>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
       <th height=33 width=100>Git</th>
       <th height=33 width=100>Visual Studio Code</th>
       <th height=33 width=100>ChatGPT</th>
       <th height=33 width=100>ConEmu</th>
       <th height=33 width=100>FarManager</th>
+      <th height=33 width=100>Curl</th>
     </tr>
   </thead>
   <tbody>
@@ -243,6 +296,11 @@
       <td height=100 width=100>
         <a href=https://www.farmanager.com/index.php?l=en>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/farmanager.svg alt=FarManager>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://curl.se/docs/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/curl.svg alt=Curl>
         </a>
       </td>
     </tr>
