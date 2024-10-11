@@ -13,11 +13,11 @@ Stylus:
 Less:
   svg: less.svg
   link: https://lesscss.org/
-  
+
 Bootstrap:
-	svg: bootstrap.svg
-	link: https://getbootstrap.com/
-	
+  svg: bootstrap.svg
+  link: https://getbootstrap.com/
+  
 HTML5:
   svg: html.svg
   link: https://html.spec.whatwg.org/multipage/

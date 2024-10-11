@@ -6,6 +6,7 @@
       <th height=33 width=100>SASS</th>
       <th height=33 width=100>Stylus</th>
       <th height=33 width=100>Less</th>
+      <th height=33 width=100>Bootstrap</th>
     </tr>
   </thead>
   <tbody>
@@ -33,6 +34,11 @@
       <td height=100 width=100>
         <a href=https://lesscss.org/>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/less.svg alt=Less>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://getbootstrap.com/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/bootstrap.svg alt=Bootstrap>
         </a>
       </td>
     </tr>
