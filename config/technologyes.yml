@@ -73,6 +73,9 @@ PostgreSQL:
 SQLite:
   svg: sqlite.svg
   link: https://www.sqlite.org/index.html
+MongoDB:
+  svg: mongodb.svg
+  link: https://www.mongodb.com/
 JSON:
   svg: json.svg
   link: https://www.json.org/json-en.html

@@ -28,6 +28,7 @@ arrNodeJs:
 arrSQL:
   - PostgreSQL
   - SQLite
+  - MongoDB
   - JSON
   - YAML
   - DBeaver

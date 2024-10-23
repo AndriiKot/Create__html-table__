@@ -185,6 +185,7 @@
     <tr>
       <th height=33 width=100>PostgreSQL</th>
       <th height=33 width=100>SQLite</th>
+      <th height=33 width=100>MongoDB</th>
       <th height=33 width=100>JSON</th>
       <th height=33 width=100>YAML</th>
       <th height=33 width=100>DBeaver</th>
@@ -201,6 +202,11 @@
       <td height=100 width=100>
         <a href=https://www.sqlite.org/index.html>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/sqlite.svg alt=SQLite>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://www.mongodb.com/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/mongodb.svg alt=MongoDB>
         </a>
       </td>
       <td height=100 width=100>
