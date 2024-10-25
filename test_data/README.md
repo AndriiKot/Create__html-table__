@@ -274,6 +274,7 @@
       <th height=33 width=100>ChatGPT</th>
       <th height=33 width=100>ConEmu</th>
       <th height=33 width=100>FarManager</th>
+      <th height=33 width=100>HTTPie</th>
       <th height=33 width=100>Curl</th>
     </tr>
   </thead>
@@ -302,6 +303,11 @@
       <td height=100 width=100>
         <a href=https://www.farmanager.com/index.php?l=en>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/farmanager.svg alt=FarManager>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://httpie.io/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/httpie.svg alt=HTTPie>
         </a>
       </td>
       <td height=100 width=100>
