@@ -104,6 +104,9 @@ ConEmu:
 FarManager:
   svg: farmanager.svg
   link: "https://www.farmanager.com/index.php?l=en"
+HTTPie:
+  svg: httpie.svg
+  link: https://httpie.io/
 Curl:
   svg: curl.svg
   link: https://curl.se/docs/
