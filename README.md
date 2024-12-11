@@ -346,3 +346,49 @@
     </tr>
   </tbody>
 </table>
+<table>
+  <thead>
+    <tr>
+      <th height=33 width=100>Python</th>
+      <th height=33 width=100>Jupyter</th>
+      <th height=33 width=100>NumPy</th>
+      <th height=33 width=100>PyTorch</th>
+      <th height=33 width=100>scikit-learn</th>
+      <th height=33 width=100>Hugging Face</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td height=100 width=100>
+        <a href=https://www.python.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/python.svg alt=Python>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://jupyter.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/jupyter.svg alt=Jupyter>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://numpy.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/numpy.svg alt=NumPy>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://pytorch.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/pytorch.svg alt=PyTorch>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://scikit-learn.org/stable/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/scikit-learn.svg alt=scikit-learn>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://huggingface.co/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/huggingface.svg alt=Hugging Face>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
