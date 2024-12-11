@@ -52,3 +52,4 @@ arrApplicationDev:
   - Vagrant
 DataScience:
   - Python
+  - Jupyter

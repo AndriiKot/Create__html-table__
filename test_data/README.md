@@ -350,6 +350,7 @@
   <thead>
     <tr>
       <th height=33 width=100>Python</th>
+      <th height=33 width=100>Jupyter</th>
     </tr>
   </thead>
   <tbody>
@@ -357,6 +358,11 @@
       <td height=100 width=100>
         <a href=https://www.python.org/>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/python.svg alt=Python>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://jupyter.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/jupyter.svg alt=Jupyter>
         </a>
       </td>
     </tr>
