@@ -145,6 +145,9 @@ Python:
 Jupyter:
   svg: jupyter.svg
   link: https://jupyter.org/
+NumPy:
+  svg: numpy.svg
+  link: https://numpy.org/
 
 # - 👋 Hi, I’m @AndriiKot
 # - 👀 I’m interested in Frontend Development
