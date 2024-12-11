@@ -142,6 +142,10 @@ Yarn:
 Python:
   svg: python.svg
   link: https://www.python.org/
+Jupyter:
+  svg: jupyter.svg
+  link: https://jupyter.org/
+
 # - 👋 Hi, I’m @AndriiKot
 # - 👀 I’m interested in Frontend Development
 # - 🌱 I’m currently React, Vue, PostgreSQL
