@@ -148,6 +148,9 @@ Jupyter:
 NumPy:
   svg: numpy.svg
   link: https://numpy.org/
+PyTorch:
+  svg: pytorch.svg
+  link: https://pytorch.org/
 
 # - 👋 Hi, I’m @AndriiKot
 # - 👀 I’m interested in Frontend Development

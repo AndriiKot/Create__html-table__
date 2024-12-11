@@ -352,6 +352,7 @@
       <th height=33 width=100>Python</th>
       <th height=33 width=100>Jupyter</th>
       <th height=33 width=100>NumPy</th>
+      <th height=33 width=100>PyTorch</th>
     </tr>
   </thead>
   <tbody>
@@ -369,6 +370,11 @@
       <td height=100 width=100>
         <a href=https://numpy.org/>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/numpy.svg alt=NumPy>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://pytorch.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/pytorch.svg alt=PyTorch>
         </a>
       </td>
     </tr>
