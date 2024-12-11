@@ -56,3 +56,4 @@ DataScience:
   - NumPy
   - PyTorch
   - scikit-learn
+  - Hugging Face

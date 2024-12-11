@@ -154,7 +154,9 @@ PyTorch:
 scikit-learn:
   svg: scikit-learn.svg
   link: https://scikit-learn.org/stable/
-
+"Hugging Face":
+  svg: huggingface.svg
+  link: https://huggingface.co/
 # - 👋 Hi, I’m @AndriiKot
 # - 👀 I’m interested in Frontend Development
 # - 🌱 I’m currently React, Vue, PostgreSQL
