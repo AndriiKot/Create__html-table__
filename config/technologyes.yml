@@ -151,6 +151,9 @@ NumPy:
 PyTorch:
   svg: pytorch.svg
   link: https://pytorch.org/
+scikit-learn:
+  svg: scikit-learn.svg
+  link: https://scikit-learn.org/stable/
 
 # - 👋 Hi, I’m @AndriiKot
 # - 👀 I’m interested in Frontend Development

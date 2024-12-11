@@ -55,3 +55,4 @@ DataScience:
   - Jupyter
   - NumPy
   - PyTorch
+  - scikit-learn
