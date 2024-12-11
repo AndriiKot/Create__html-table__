@@ -50,4 +50,5 @@ arrApplicationDev:
   - Docker
   - VirtualBox
   - Vagrant
-
+DataScience:
+  - Python

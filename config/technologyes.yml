@@ -17,7 +17,7 @@ Less:
 Bootstrap:
   svg: bootstrap.svg
   link: https://getbootstrap.com/
-  
+
 HTML5:
   svg: html.svg
   link: https://html.spec.whatwg.org/multipage/
@@ -139,6 +139,9 @@ NPM:
 Yarn:
   svg: yarn.svg
   link: https://classic.yarnpkg.com/en/
+Python:
+  svg: python.svg
+  link: https://www.python.org/
 # - 👋 Hi, I’m @AndriiKot
 # - 👀 I’m interested in Frontend Development
 # - 🌱 I’m currently React, Vue, PostgreSQL
