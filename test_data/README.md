@@ -354,6 +354,7 @@
       <th height=33 width=100>NumPy</th>
       <th height=33 width=100>PyTorch</th>
       <th height=33 width=100>scikit-learn</th>
+      <th height=33 width=100>Hugging Face</th>
     </tr>
   </thead>
   <tbody>
@@ -381,6 +382,11 @@
       <td height=100 width=100>
         <a href=https://scikit-learn.org/stable/>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/scikit-learn.svg alt=scikit-learn>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://huggingface.co/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/huggingface.svg alt=Hugging Face>
         </a>
       </td>
     </tr>
