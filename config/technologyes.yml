@@ -157,6 +157,9 @@ scikit-learn:
 "Hugging Face":
   svg: huggingface.svg
   link: https://huggingface.co/
+FastAPI:
+  svg: fastapi.svg
+  link: https://fastapi.tiangolo.com/
 # - 👋 Hi, I’m @AndriiKot
 # - 👀 I’m interested in Frontend Development
 # - 🌱 I’m currently React, Vue, PostgreSQL

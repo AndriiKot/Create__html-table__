@@ -57,3 +57,5 @@ DataScience:
   - PyTorch
   - scikit-learn
   - Hugging Face
+PythonFremework:
+  - FastAPI
