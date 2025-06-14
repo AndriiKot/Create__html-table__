@@ -12,19 +12,19 @@ class TableCreator
   end
 
   def create_or_clear_file
-    File.open(@file_to_write, 'w+') 
+    File.open(@file_to_write, 'w+')
   end
 
   def add_tables
     @stacks.each do |stack_name, technologyes|
-      create_table(100, technologyes)
+      create_table(@size_td, technologyes)
     end
   end
 
   private
 
   def create_table(height, options)
-    height = @size_td 
+    height = @size_td
     File.open(@file_to_write, 'a+') do |f|
       f.puts with_indent("<table>")
 
